@@ -1766,7 +1766,15 @@
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2 {
+		color: #ffffff;
+		font-family: Raleway, Helvetica, sans-serif;
+		font-weight: 700;
+		letter-spacing: 0.1em;
+		margin: 0 0 1em 0;
+	}
+	
+	h3, h4, h5, h6 {
 		color: #ffffff;
 		font-family: Raleway, Helvetica, sans-serif;
 		font-weight: 700;
@@ -3098,7 +3106,7 @@
 
 	#banner {
 		padding: 10em 0 4.75em 0 ;
-		background-image: url("../../images/bg.jpg");
+		background-image: url("../../images/bg.png");
 		background-repeat: no-repeat;
 		background-position: center, center;
 	}
@@ -3176,8 +3184,8 @@
 			filter: blur(0);
 			opacity: 1;
 			font-family: Raleway, Helvetica, sans-serif;
-			font-size: 1em;
-			font-weight: 200;
+			font-size: 1.5em;
+			font-weight: 250;
 			letter-spacing: 0.1em;
 			line-height: 2;
 			text-transform: uppercase;
@@ -3188,7 +3196,7 @@
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #2e3141;
-				background-image: url("../../images/bg.jpg");
+				background-image: url("../../images/bg.png");
 				background-size: auto, cover;
 				background-position: center, center;
 				margin-bottom: -6.5em;
