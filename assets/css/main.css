@@ -3879,6 +3879,6 @@
 /* By Me */
 
     .fa-diamond:before{
-        content: url("../../images/pic02.jpg") !important;
+        content: url("../../images/logo.png") !important;
         zoom: 0.5;
 }
