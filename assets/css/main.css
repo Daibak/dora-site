@@ -3109,6 +3109,7 @@
 		background-image: url("../../images/bg.png");
 		background-repeat: no-repeat;
 		background-position: center, center;
+		margin-bottom: -6.5em;
 	}
 
 		#banner .inner {
