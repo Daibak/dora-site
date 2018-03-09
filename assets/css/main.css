@@ -1736,10 +1736,10 @@
 				content: '\f105';
 				display: inline-block;
 				font-size: 1.25em;
-				height: 2em;
 				line-height: 1.65em;
 				margin-right: 0.85em;
 				text-align: center;
+				height: 2em;
 				text-indent: 0.15em;
 				vertical-align: middle;
 				width: 2em;
@@ -3186,7 +3186,7 @@
 			opacity: 1;
 			font-family: Raleway, Helvetica, sans-serif;
 			font-size: 1.5em;
-			font-weight: 250;
+			font-weight: 200;
 			letter-spacing: 0.1em;
 			line-height: 2;
 			text-transform: uppercase;
