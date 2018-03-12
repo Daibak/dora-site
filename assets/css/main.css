@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,600,300italic,600italic");
+@import url("https://fonts.googleapis.com/css?family=Roboto:200,300,600,700,300italic,600italic|Raleway:200,700");
 
 /*
 	Solid State by HTML5 UP
@@ -1624,7 +1624,7 @@
 
 	body {
 		background-color: #2e3141;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.png");
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.5), rgba(46, 49, 65, 0.5)), url("../../images/bg.png");
 		background-size: auto, cover;
 		background-attachment: fixed, fixed;
 		background-position: center, center;
@@ -1645,7 +1645,7 @@
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: Helvetica, sans-serif;
+		font-family: Roboto, Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: 300;
 		line-height: 1.65;
@@ -2044,7 +2044,7 @@
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-family: Roboto, Helvetica, sans-serif;
 			text-transform: none;
 			letter-spacing: 0;
 			font-weight: 300;
@@ -3137,6 +3137,8 @@
 				line-height: 2.25em;
 				text-align: center;
 				width: 3em;
+                content: url("../../images/logo.png");
+                padding: 0 0 0.2em 0;
 			}
 
 		#banner h2 {
@@ -3874,9 +3876,3 @@
 
 	}
 
-/* By Me */
-
-    .fa-diamond:before{
-        content: url("../../images/logo.png") !important;
-        zoom: 0.5;
-}
