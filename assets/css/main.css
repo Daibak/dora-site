@@ -3128,8 +3128,9 @@
 		}
 
 			#banner .logo .icon {
-				border-radius: 100%;
+				/*border-radius: 100%;
 				border: solid 2px rgba(255, 255, 255, 0.125);
+				padding: 0 0 0.2em 0;*/
 				cursor: default;
 				display: inline-block;
 				font-size: 2em;
@@ -3138,7 +3139,6 @@
 				text-align: center;
 				width: 3em;
                 content: url("../../images/logo.png");
-                padding: 0 0 0.2em 0;
 			}
 
 		#banner h2 {
