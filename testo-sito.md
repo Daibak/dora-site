@@ -89,12 +89,15 @@ A tutela dell'interesse del Cliente quindi si offre in particolar modo:
 
 FRASI
 
-"Siamo schiavi delle leggi, per poter essere liberi" Legum servi sumus ut liberi esse possimus (Cicerone)
+"Siamo schiavi delle leggi, per poter essere liberi" Legum servi sumus ut liberi esse possimus) Cicerone
 "Il grande avvocato è quello  utile ai giudici per aiutarli a decidere secondo giustizia, utile al cliente per aiutarlo a far valere le proprie ragioni" (Piero Calamandrei)
 "La legge è il giusto criterio di comandare e di proibire" (Lex est recta ratio imperandi atque prohibendi)
-"Le buone leggi rendono più facile fare la cosa giusta e più difficile quella sbagliata" (William E. Gladstone)
-"Dove non c'è legge non c'è libertà" (John Locke)
-"Non v'è vita senza legge. Qualunque cosa esiste, esiste in un certo modo, secondo certe condizioni, con una certa legge" (Giuseppe Mazzini)
+"Le buone leggi rendono più facile fare la cosa giusta e più difficile quella sbagliata"
+(William E. Gladstone)
+"Dove non c'è legge non c'è libertà"
+ (John Locke)
+"Non v'è vita senza legge. Qualunque cosa esiste, esiste in un certo modo, secondo certe condizioni, con una certa legge"
+(Giuseppe Mazzini)
 "Vi è un'arte del silenzio che vale quanto l'eloquenza" (cicerone)
 
 ABOUT
