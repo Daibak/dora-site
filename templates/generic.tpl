@@ -10,27 +10,27 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        <title>Diritto Immobiliare</title>
-        <meta name="description" content="">
+        <title>$title</title>
+        <meta name="description" content="$description">
 
         <!--  Essential META Tags -->
-        <meta property="og:title" content="Diritto Immobiliare">
-        <meta property="og:description" content="">
-        <meta property="og:image" content="https://avvocatodoraballabio.com/images/icon.jpg">
-        <meta property="og:url" content="https://avvocatodoraballabio.com/diritto-immobiliare.html">
-        <meta property="og:site_name" content="Avvocato Dora Ballabio">
+        <meta property="og:title" content="$title">
+        <meta property="og:description" content="$description">
+        <meta property="og:image" content="$baseUrl/images/icon.jpg">
+        <meta property="og:url" content="$baseUrl/$page.html">
+        <meta property="og:site_name" content="$siteName">
 
         <!--  Non-Essential, But Recommended -->
-        <meta name="twitter:image:alt" content="Avvocato Dora Ballabio">
+        <meta name="twitter:image:alt" content="$siteName">
         <meta name="referrer" content="no-referrer-when-downgrade">
-        <link rel="canonical" href="https://avvocatodoraballabio.com/diritto-immobiliare.html" />
+        <link rel="canonical" href="$baseUrl/$page.html" />
 
         <!--  Icons -->
-        <link rel="icon" href="icons/favicon-16.png" sizes="16x16" type="image/png">
-        <link rel="icon" href="icons/favicon-32.png" sizes="32x32" type="image/png">
-        <link rel="icon" href="icons/favicon-48.png" sizes="48x48" type="image/png">
-        <link rel="icon" href="icons/favicon-96.png" sizes="96x96" type="image/png">
-        <link rel="icon" href="icons/favicon-192.png" sizes="192x192" type="image/png">
+        <link rel="icon" href="${faviconsPrefix}16.$faviconsExtension" sizes="16x16" type="image/png">
+        <link rel="icon" href="${faviconsPrefix}32.$faviconsExtension" sizes="32x32" type="image/png">
+        <link rel="icon" href="${faviconsPrefix}48.$faviconsExtension" sizes="48x48" type="image/png">
+        <link rel="icon" href="${faviconsPrefix}96.$faviconsExtension" sizes="96x96" type="image/png">
+        <link rel="icon" href="${faviconsPrefix}192.$faviconsExtension" sizes="192x192" type="image/png">
 
         <!--
             <link rel="apple-touch-icon" href="older-iPhone.png"> <!- 120px ->
@@ -39,19 +39,19 @@
             <link rel="apple-touch-icon" sizes="167x167" href="iPad-Pro.png">
         -->
 
-        <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-        <link rel="stylesheet" href="assets/css/main.css" />
-        <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-        <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+        <!--[if lte IE 8]><script src="../assets/js/ie/html5shiv.js"></script><![endif]-->
+        <link rel="stylesheet" href="../assets/css/main.css" />
+        <!--[if lte IE 9]><link rel="stylesheet" href="../assets/css/ie9.css" /><![endif]-->
+        <!--[if lte IE 8]><link rel="stylesheet" href="../assets/css/ie8.css" /><![endif]-->
     </head>
-    <body style='background-image: linear-gradient(to top, rgba(46, 49, 65, 0.5), rgba(46, 49, 65, 0.5)), url("images/bg-immobiliare.png");'>
+    <body style='background-image: linear-gradient(to top, rgba(46, 49, 65, 0.5), rgba(46, 49, 65, 0.5)), url("../images/bg-immobiliare.png");'>
 
         <!-- Page Wrapper -->
         <div id="page-wrapper">
 
             <!-- Header -->
             <header id="header">
-                <h1><a href="index.html">Avvocato Dora Ballabio</a></h1>
+                <h1><a href="../index.html">$siteName</a></h1>
                 <nav>
                     <a href="#menu">Menu</a>
                 </nav>
@@ -62,9 +62,9 @@
                 <div class="inner">
                     <h2>Menu</h2>
                     <ul class="links">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="generic.html">Generic</a></li>
-                        <li><a href="elements.html">Elements</a></li>
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="../generic.html">Generic</a></li>
+                        <li><a href="../elements.html">Elements</a></li>
                         <li><a href="#">Log In</a></li>
                         <li><a href="#">Sign Up</a></li>
                     </ul>
@@ -76,7 +76,7 @@
             <section id="wrapper">
                 <header>
                     <div class="inner">
-                        <h2>Diritto Immobiliare</h2>
+                        <h2>$title</h2>
                         <p>Phasellus non pulvinar erat. Fusce tincidunt nisl eget ipsum.</p>
                     </div>
                 </header>
@@ -86,34 +86,19 @@
                     <div class="inner">
 
                         <h3 class="major">Lorem ipsum dolor</h3>
-                        <p>Si presta consulenza ed assistenza in materia di <strong>DIRITTO IMMOBILIARE</strong>, con particolare attenzione alle tematiche di compravendita e di locazioni sia di beni immobili ad uso abitativo che ad uso commerciale. La consulenza viene plasmata ad hoc per le esigenze del Cliente, per poterlo supportare a tutto tondo e garantire un’assistenza che nel più breve tempo possibile, e ad un costo sostenibile, soddisfi il Cliente. Per raggiungere tale obiettivo si pone particolare attenzione a tutte le fasi necessarie al raggiungimento del risultato prefissato, dalle indagini preliminari (ricerche in conservatorie, catasto, etc.), alla redazione e negoziazione dei contratti richiesti, oltreché affiancamento negli adempimenti successivi. A titolo esemplificativo si offrono le seguenti prestazioni:</p>
-                        <ul>
-                            <li>indagini preliminari per vendita e locazioni (visure in conservatoria e catasto);</li>
-                            <li>negoziazione contrattuale e consulenza sui possibili scenari risolutivi;</li>
-                            <li>redazione contratti e relative clausole (preliminari di vendita, di locazione, comodato…) <a href="https://avvocatodoraballabio.com/contrattualistica.html">vedasi anche area di competenza: contrattualistica</a>;</li>
-                            <li>registrazione dei contratti di locazione / trascrizione dei contratti preliminari di vendita;</li>
-                            <li>revisioni contrattuali e transazioni stragiudiziali e giudiziali, predisposizioni di piani di rientro;</li>
-                            <li>assistenza giudiziale per le procedure di rilascio degli immobili (procedura di sfratto per morosità, finita locazione, licenza di sfratto per finita locazione, procedure giudiziali di risoluzione contrattuale etc.);</li>
-                            <li>azioni per il recupero dei crediti dei canoni di locazione impagati <a href="https://avvocatodoraballabio.com/recupero-credito.html">vedasi anche area di competenza: recupero del credito</a>;</li>
-                            <li>azioni di tutela dei diritti di proprietà e diritti reali su beni immobili (azioni petitorie);</li>
-                            <li>azioni a tutela del possesso e della detenzione di beni immobili (azioni possessorie);</li>
-                            <li>azioni a difesa della proprietà ed altri diritti reali di godimento (usufrutto, uso, abitazione, enfiteusi, superficie, servitù);</li>
-                            <li>azioni di accertamento d’usucapione;</li>
-                            <li>azioni di responsabilità contrattuale ed extra contrattuale per difformità e/o vizi dei beni acquistati/venduti.</li>
-                        </ul>
-
+                        $content
                         <h3 class="major">Vitae phasellus</h3>
                         <p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
 
                         <section class="features">
                             <article>
-                                <a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
+                                <a href="#" class="image"><img src="../images/pic04.jpg" alt="" /></a>
                                 <h3 class="major">Sed feugiat lorem</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
                                 <a href="#" class="special">Learn more</a>
                             </article>
                             <article>
-                                <a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
+                                <a href="#" class="image"><img src="../images/pic05.jpg" alt="" /></a>
                                 <h3 class="major">Nisl placerat</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
                                 <a href="#" class="special">Learn more</a>
@@ -168,12 +153,12 @@
         </div>
 
         <!-- Scripts -->
-        <script src="assets/js/skel.min.js"></script>
-        <script src="assets/js/jquery.min.js"></script>
-        <script src="assets/js/jquery.scrollex.min.js"></script>
-        <script src="assets/js/util.js"></script>
-        <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-        <script src="assets/js/main.js"></script>
+        <script src="../ssets/js/skel.min.js"></script>
+        <script src="../assets/js/jquery.min.js"></script>
+        <script src="../assets/js/jquery.scrollex.min.js"></script>
+        <script src="../assets/js/util.js"></script>
+        <!--[if lte IE 8]><script src="../assets/js/ie/respond.min.js"></script><![endif]-->
+        <script src="../assets/js/main.js"></script>
 
     </body>
 </html>

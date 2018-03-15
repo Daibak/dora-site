@@ -1,19 +1,26 @@
 #!/usr/bin/env python
 
 import argparse
-import json
 import sys
 from string import Template
+
+import yaml
 
 
 def main(args):
     tpl = Template(args.templateFile.read())
-    definitions = json.loads(args.i.read())
+
+    definitions = {}
+    for fi in args.i:
+        definitions.update(yaml.load(fi))
+
     output = tpl.substitute(definitions)
     args.o.write(output)
-    args.templateFile.close()
-    args.i.close()
+
+    for f in args.i:
+        f.close()
     args.o.close()
+    args.templateFile.close()
 
 
 if __name__ == "__main__":
@@ -23,7 +30,7 @@ if __name__ == "__main__":
     parser.add_argument("templateFile",
                         help="Path to file containing the template(text with $ID as variables)",
                         type=argparse.FileType('r'))
-    parser.add_argument("-i", metavar="defintion-file", help="Path to file with definition as JSON dictionary",
+    parser.add_argument("-i", metavar="defintion-file", help="Path to file with definition as JSON dictionary", nargs='*',
                         type=argparse.FileType('r'), default=sys.stdin)
     parser.add_argument("-o", metavar="output-file", help="Path to output file",
                         type=argparse.FileType('w'), default=sys.stdout)
