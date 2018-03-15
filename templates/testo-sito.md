@@ -4,11 +4,11 @@ A titolo esemplificativo si offrono le seguenti prestazioni:
 
 * indagini preliminari per vendita e locazioni (visure in conservatoria e catasto);
 * negoziazione contrattuale e consulenza sui possibili scenari risolutivi;
-* redazione contratti e relative clausole (preliminari di vendita, di locazione, comodato...) [vedasi anche area di competenza: contrattualistica]($baseUrl/contrattualistica.html);
+* redazione contratti e relative clausole (preliminari di vendita, di locazione, comodato...) [(vedasi anche area di competenza: contrattualistica)]($baseUrl/contrattualistica.html);
 * registrazione dei contratti di locazione / trascrizione dei contratti preliminari di vendita;
 * revisioni contrattuali e transazioni stragiudiziali e giudiziali, predisposizioni di piani di rientro;
 * assistenza giudiziale per le procedure di rilascio degli immobili (procedura di sfratto per morosità, finita locazione, licenza di sfratto per finita locazione, procedure giudiziali di risoluzione contrattuale etc.);
-* azioni per il recupero dei crediti dei canoni di locazione impagati [vedasi anche area di competenza: recupero del credito](baseUrl/recupero-credito.html);
+* azioni per il recupero dei crediti dei canoni di locazione impagati [(vedasi anche area di competenza: recupero del credito)](baseUrl/recupero-credito.html);
 * azioni di tutela dei diritti di proprietà e diritti reali su beni immobili (azioni petitorie);
 * azioni a tutela del possesso e della detenzione di beni immobili (azioni possessorie);
 * azioni a difesa della proprietà ed altri diritti reali di godimento (usufrutto, uso, abitazione, enfiteusi, superficie, servitù);
@@ -31,9 +31,9 @@ Non si ha riguardo unicamente agli aspetti giuridici, ma si pone particolare att
 
 Si offre ai propri Clienti consulenza personalizzata ed assistenza stragiudiziale in **MATERIA CONTRATTUALE** al fine di offrire il miglior strumento giuridico possibile a presidio e a tutela dei diritti del Cliente. In particolare si offre assistenza per:
 
-* disamina / redazione e revisione di contratti di vendita e locazione [vedasi anche area di competenza: diritto immobiliare](baseUrl/diritto-immobiliare.html);
+* disamina / redazione e revisione di contratti di vendita e locazione [(vedasi anche area di competenza: diritto immobiliare)](baseUrl/diritto-immobiliare.html);
 * disamina / redazione e revisione di contratti di appalto/ subappalto;
-* disamina / redazione e revisione di contratti di cessione di marchio [vedasi anche area di competenza: diritto proprietà intellettuale](baseUrl/diritto-intellettuale.html);
+* disamina / redazione e revisione di contratti di cessione di marchio [(vedasi anche area di competenza: diritto proprietà intellettuale)](baseUrl/diritto-intellettuale.html);
 * disamina / redazione e revisione di contratti di fornitura, di distribuzione;
 * disamina / redazione e revisione di contratto di affitto e cessione di ramo d'azienda;
 * disamina / redazione e revisione di contratti costitutivi di patti di famiglia;
@@ -49,7 +49,7 @@ Si offre quindi al Cliente la panoramica a 360 gradi di quelli che sono i propri
 * separazione consensuale tramite la procedura di negoziazione assistita; 
 * separazione giudiziale avanti l'Autorità Giudiziaria;
 * ricorsi avanti il Giudice Tutelare per dirimere i conflitti tra genitori; 
-* recupero del credito per mancata corresponsione degli assegni di mantenimento sia in via stragiudiziale che giudiziale [vedasi area di competenza: recupero del credito](baseUrl/recupero-credito.html); 
+* recupero del credito per mancata corresponsione degli assegni di mantenimento sia in via stragiudiziale che giudiziale [(vedasi area di competenza: recupero del credito)](baseUrl/recupero-credito.html); 
 * divorzi congiunti avanti le Autorità competenti (assistendo anche entrambi i coniugi); 
 * divorzi tramite la procedura di negoziazione assistita; 
 * regolamentazione delle coppie di fatto; 
@@ -83,7 +83,7 @@ Nello specifico, si offrono le seguenti prestazioni professionali:
 * assistenza nel deposito di domande di registrazione dei marchi nazionali ed internazionali, sino a completamento della procedura con emissione dell'attestato di registrazione da parte dell'UIBM;
 * assistenza nel deposito di domande di rinnovo dei marchi nazionali ed internazionali;
 * assistenza nel deposito di domande di cessione di marchi;
-* consulenza ed assistenza nella redazione di contratti di cessione de marchi [vedasi area di competenza: contrattualistica](baseUrl/contrattualistica.html);
+* consulenza ed assistenza nella redazione di contratti di cessione de marchi [(vedasi area di competenza: contrattualistica)](baseUrl/contrattualistica.html);
 * consulenza in materia di concorrenza sleale e contraffazione;
 * consulenza e assistenza sulla tutela del diritto d'autore;
 
