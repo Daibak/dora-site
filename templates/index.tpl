@@ -91,7 +91,7 @@
                 <!-- One -->
                 <section id="one" class="wrapper spotlight style1">
                     <div class="inner">
-                        <a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+                        <a href="#" class="image"><img src="images/diritto-immobiliare.png" alt="" /></a>
                         <div class="content">
                             <h2 class="major">Diritto Immobiliare</h2>
                             <p>Si presta consulenza ed assistenza in materia di DIRITTO IMMOBILIARE, con particolare attenzione alle tematiche di compravendita e di locazioni sia di beni immobili ad uso abitativo che ad uso commerciale.</p>
@@ -103,7 +103,7 @@
                 <!-- Two -->
                 <section id="two" class="wrapper alt spotlight style2">
                     <div class="inner">
-                        <a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+                        <a href="#" class="image"><img src="images/diritto-condominiale.png" alt="" /></a>
                         <div class="content">
                             <h2 class="major">Diritto Condominiale</h2>
                             <p>Ci si occupa stabilmente di DIRITTO CONDOMINIALE, assistendo Amministratori di Condominio e singoli condomini nei rapporti condominiali.</p>
@@ -115,7 +115,7 @@
                 <!-- Three -->
                 <section id="three" class="wrapper spotlight style3">
                     <div class="inner">
-                        <a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+                        <a href="#" class="image"><img src="images/contrattualistica.png" alt="" /></a>
                         <div class="content">
                             <h2 class="major">Contrattualistica</h2>
                             <p>Si offre ai propri clienti una consulenza personalizzata ed assistenza stragiudiziale in MATERIA CONTRATTUALE al fine di offrire il miglior strumento giuridico possibile a presidio e a tutela dei diritti del Cliente.</p>
@@ -127,7 +127,7 @@
                 <!-- Four -->
                 <section id="two" class="wrapper alt spotlight style4">
                     <div class="inner">
-                        <a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+                        <a href="#" class="image"><img src="images/diritto-famiglia.png" alt="" /></a>
                         <div class="content">
                             <h2 class="major">Diritto della Famiglia e dei Minori</h2>
                             <p>Si presta consulenza, assistenza e rappresentanza per tutta la materia attinente al DIRITTO DELLA FAMIGLIA E DEI MINORI,, ponendo al primo posto l’interesse psicofisiche dei minori ed il buon equilibrio della famiglia.</p>
@@ -139,7 +139,7 @@
                 <!-- Five -->
                 <section id="three" class="wrapper spotlight style5">
                     <div class="inner">
-                        <a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+                        <a href="#" class="image"><img src="images/recupero-credito.png" alt="" /></a>
                         <div class="content">
                             <h2 class="major">Recupero del Credito</h2>
                             <p>Si offre la propria prestazione professionale per il RECUPERO  del CREDITO, con particolare attenzione all’ammortizzamento dei costi per il Cliente. Tramite una consulenza preliminare con il Cliente, si adotta la strategia migliore per recuperare il credito, dal tentativo stragiudiziale a mezzo diffida alla successiva eventuale fase giudiziale di recupero.</p>
@@ -151,11 +151,11 @@
                 <!-- Six -->
                 <section id="two" class="wrapper alt spotlight style6">
                     <div class="inner">
-                        <a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+                        <a href="#" class="image"><img src="images/diritto-intellettuale.png" alt="" /></a>
                         <div class="content">
                             <h2 class="major">Diritto della Proprietà Intellettuale</h2>
                             <p>Si presta consulenza ed assistenza in materia di DIRITTO DELLA PROPRIETA' INTELLETTUALE, ponendo una particolare attenzione allo studio e profilazione della migliore strategia di tutela delle “idee” dei Clienti nonché dei distintivi d’impresa e/o dei prodotti.</p>
-                            <a href="competenze/diritto-immobiliare.html" class="special">Dettagli</a>
+                            <a href="competenze/diritto-intellettuale.html" class="special">Dettagli</a>
                         </div>
                     </div>
                 </section>
@@ -163,7 +163,7 @@
                 <!-- Seven -->
                 <section id="three" class="wrapper spotlight style1">
                     <div class="inner">
-                        <a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+                        <a href="#" class="image"><img src="images/diritto-assicurativo.png" alt="" /></a>
                         <div class="content">
                             <h2 class="major">Diritto Assicurativo</h2>
                             <p>Si offre la propria attività professionale in materia di diritto assicurativo, rivolgendosi tanto alle compagnie di assicurazioni quanto ai privati, tutelando sempre l’interesse del Cliente.</p>
