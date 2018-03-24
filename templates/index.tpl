@@ -167,6 +167,9 @@
                             <h2 class="major">Diritto Assicurativo</h2>
                             <p>Si offre la propria attività professionale in materia di diritto assicurativo, rivolgendosi tanto alle compagnie di assicurazioni quanto ai privati, tutelando sempre l’interesse del Cliente.</p>
                             <a href="competenze/diritto-assicurativo.html" class="special">Dettagli</a>
+                            <ul class="actions">
+                                <li><a href="comptenze/index.html" class="button">Browse All</a></li>
+                            </ul>
                         </div>
                     </div>
                 </section>
