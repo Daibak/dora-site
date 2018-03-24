@@ -63,6 +63,7 @@
                     <h2>Menu</h2>
                     <ul class="links">
                         <li><a href="../index.html">Home</a></li>
+                        <li><a href="../index.html#about">About</a></li>
                         <li><a href="index.html">Competenze</a></li>
                         <li><a href="#footer">Contatti</a></li>
                     </ul>
