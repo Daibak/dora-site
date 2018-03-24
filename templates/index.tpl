@@ -238,7 +238,7 @@
                     </form>
                     <ul class="contact">
                         <li class="fa-home">
-                            $address
+                            <a href="$addressLink">$address</a>
                         </li>
                         <li class="fa-phone"><a href="tel:$phone">$phone</a></li>
                         <li class="fa-phone"><a href="tel:$cell">$cell</a></li>
