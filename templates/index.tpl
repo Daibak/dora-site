@@ -242,7 +242,7 @@
                         <li class="fa-envelope"><a href="mailto:$mail">$mail</a></li>
                     </ul>
                     <ul class="copyright">
-                        <li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                        <li>&copy; Dora Ballabio All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
                     </ul>
                 </div>
             </section>
