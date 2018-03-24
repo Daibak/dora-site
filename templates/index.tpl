@@ -67,10 +67,8 @@
                     <h2>Menu</h2>
                     <ul class="links">
                         <li><a href="index.html">Home</a></li>
-                        <li><a href="generic.html">Generic</a></li>
-                        <li><a href="elements.html">Elements</a></li>
-                        <li><a href="#">Log In</a></li>
-                        <li><a href="#">Sign Up</a></li>
+                        <li><a href="competenze/index.html">Competenze</a></li>
+                        <li><a href="#footer">Contatti</a></li>
                     </ul>
                     <a href="#" class="close">Close</a>
                 </div>
@@ -216,7 +214,7 @@
                 <div class="inner">
                     <h2 class="major">Contatti</h2>
                     <p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
-                    <form method="POST" action="https://formspree.io/dora.ballabio@outlook.it">
+                    <form method="POST" action="$mail">
                         <div class="field">
                             <label for="name">Name</label>
                             <input type="text" name="name" id="name" />
@@ -236,15 +234,11 @@
                     </form>
                     <ul class="contact">
                         <li class="fa-home">
-                            Untitled Inc<br />
-                            1234 Somewhere Road Suite #2894<br />
-                            Nashville, TN 00000-0000
+                            $address
                         </li>
-                        <li class="fa-phone">(000) 000-0000</li>
-                        <li class="fa-envelope"><a href="#">information@untitled.tld</a></li>
-                        <li class="fa-twitter"><a href="#">twitter.com/untitled-tld</a></li>
-                        <li class="fa-facebook"><a href="#">facebook.com/untitled-tld</a></li>
-                        <li class="fa-instagram"><a href="#">instagram.com/untitled-tld</a></li>
+                        <li class="fa-phone">$phone</li>
+                        <li class="fa-envelope"><a href="mailto:$mailPec">$mailPec</a></li>
+                        <li class="fa-envelope"><a href="mailto:$mail">$mail</a></li>
                     </ul>
                     <ul class="copyright">
                         <li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>

@@ -12,7 +12,9 @@ def main(args):
 
     definitions = {}
     for fi in args.i:
-        definitions.update(yaml.load(fi))
+        ld = yaml.load(fi)
+        if ld is not None:
+            definitions.update(ld)
 
     output = tpl.substitute(definitions)
     args.o.write(output)

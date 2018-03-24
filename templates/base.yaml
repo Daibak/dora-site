@@ -1,0 +1,15 @@
+%YAML 1.2
+---
+baseUrl: https://avvocatodoraballabio.com
+faviconsPrefix: ../favicons/favicon-
+faviconsExtension: png
+siteName: Avvocato Dora Ballabio
+mail: dora.ballabio@outlook.it
+mailPec: dora.ballabio@avvocati.it
+phone: "000-0000"
+address: |
+    Untitled Inc<br />
+    1234 Somewhere Road Suite #2894<br />
+    Nashville, TN 00000-0000
+
+
