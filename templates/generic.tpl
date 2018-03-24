@@ -135,9 +135,11 @@
                         <li class="fa-home">
                             $address
                         </li>
-                        <li class="fa-phone">$phone</li>
+                        <li class="fa-phone"><a href="tel:$phone">$phone</a></li>
+                        <li class="fa-phone"><a href="tel:$cell">$cell</a></li>
                         <li class="fa-envelope"><a href="mailto:$mailPec">$mailPec</a></li>
                         <li class="fa-envelope"><a href="mailto:$mail">$mail</a></li>
+    					<li class="fa-linkedin"><a href="$linkedin">$linkedin</a></li>
                     </ul>
                     <ul class="copyright">
                         <li>&copy; Dora Ballabio All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
