@@ -12,9 +12,6 @@
 
         <title>$title</title>
         <meta name="description" content="$description">
-        <!--
-            <base href="//daibak.github.io/dora-site/">
-        -->
 
         <!--  Essential META Tags -->
         <meta property="og:title" content="$title">
