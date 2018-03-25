@@ -24,7 +24,11 @@
 			$banner = $('#banner');
 
 		// Disable animations/transitions until the page has loaded.
-			$body.addClass('is-loading').delay(200).removeClass('is-loading');
+			$body.addClass('is-loading');
+
+			window.setTimeout(function() {
+				$body.removeClass('is-loading');
+			}, 500);
 
 		// Fix: Placeholder polyfill.
 			$('form').placeholder();

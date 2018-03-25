@@ -97,7 +97,7 @@
                 <div class="inner">
                     <h2 class="major">Contatti</h2>
                     <p>Per concordare un appuntamento compili ed invii il modulo sottostante.
-Oppure utilizzi i seguenti riferimenti.</p>
+                    Oppure utilizzi i seguenti riferimenti.</p>
                     <form method="post" action="$mail">
                         <div class="field">
                             <label for="name">Name</label>
@@ -123,7 +123,7 @@ Oppure utilizzi i seguenti riferimenti.</p>
                         <li class="fa-phone"><a href="tel:$cell">$cell</a></li>
                         <li class="fa-envelope"><a href="mailto:$mailPec">$mailPec</a></li>
                         <li class="fa-envelope"><a href="mailto:$mail">$mail</a></li>
-    					<li class="fa-linkedin"><a href="$linkedin">$linkedin</a></li>
+                        <li class="fa-linkedin"><a href="$linkedin">$linkedin</a></li>
                     </ul>
                     <ul class="copyright">
                         <li>&copy; Dora Ballabio All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>

@@ -138,7 +138,7 @@
                 <div class="inner">
                     <h2 class="major">Contatti</h2>
                     <p>Per concordare un appuntamento compili ed invii il modulo sottostante.
-Oppure utilizzi i seguenti riferimenti.</p>
+                    Oppure utilizzi i seguenti riferimenti.</p>
                     <form method="POST" action="$mail">
                         <div class="field">
                             <label for="name">Name</label>
@@ -165,7 +165,7 @@ Oppure utilizzi i seguenti riferimenti.</p>
                         <li class="fa-phone"><a href="tel:$cell">$cell</a></li>
                         <li class="fa-envelope"><a href="mailto:$mailPec">$mailPec</a></li>
                         <li class="fa-envelope"><a href="mailto:$mail">$mail</a></li>
-    					<li class="fa-linkedin"><a href="$linkedin">$linkedin</a></li>
+                        <li class="fa-linkedin"><a href="$linkedin">$linkedin</a></li>
                     </ul>
                     <ul class="copyright">
                         <li>&copy; Dora Ballabio All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
@@ -177,7 +177,7 @@ Oppure utilizzi i seguenti riferimenti.</p>
 
         <!-- Scripts -->
         <script src="assets/js/skel.min.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="assets/js/jquery.scrollex.min.js"></script>
         <script src="assets/js/util.js"></script>
         <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
