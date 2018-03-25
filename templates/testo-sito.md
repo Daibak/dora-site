@@ -4,11 +4,11 @@ A titolo esemplificativo si offrono le seguenti prestazioni:
 
 * indagini preliminari per vendita e locazioni (visure in conservatoria e catasto);
 * negoziazione contrattuale e consulenza sui possibili scenari risolutivi;
-* redazione contratti e relative clausole (preliminari di vendita, di locazione, comodato...) [(vedasi anche area di competenza: contrattualistica)]($baseUrl/contrattualistica.html);
+* redazione contratti e relative clausole (preliminari di vendita, di locazione, comodato...) [(vedasi anche area di competenza: contrattualistica)]($competenzeUrl/contrattualistica.html);
 * registrazione dei contratti di locazione / trascrizione dei contratti preliminari di vendita;
 * revisioni contrattuali e transazioni stragiudiziali e giudiziali, predisposizioni di piani di rientro;
 * assistenza giudiziale per le procedure di rilascio degli immobili (procedura di sfratto per morosità, finita locazione, licenza di sfratto per finita locazione, procedure giudiziali di risoluzione contrattuale etc.);
-* azioni per il recupero dei crediti dei canoni di locazione impagati [(vedasi anche area di competenza: recupero del credito)](baseUrl/recupero-credito.html);
+* azioni per il recupero dei crediti dei canoni di locazione impagati [(vedasi anche area di competenza: recupero del credito)]($competenzeUrl/recupero-credito.html);
 * azioni di tutela dei diritti di proprietà e diritti reali su beni immobili (azioni petitorie);
 * azioni a tutela del possesso e della detenzione di beni immobili (azioni possessorie);
 * azioni a difesa della proprietà ed altri diritti reali di godimento (usufrutto, uso, abitazione, enfiteusi, superficie, servitù);
@@ -31,9 +31,9 @@ Non si ha riguardo unicamente agli aspetti giuridici, ma si pone particolare att
 
 Si offre ai propri Clienti consulenza personalizzata ed assistenza stragiudiziale in **MATERIA CONTRATTUALE** al fine di offrire il miglior strumento giuridico possibile a presidio e a tutela dei diritti del Cliente. In particolare si offre assistenza per:
 
-* disamina / redazione e revisione di contratti di vendita e locazione [(vedasi anche area di competenza: diritto immobiliare)](baseUrl/diritto-immobiliare.html);
+* disamina / redazione e revisione di contratti di vendita e locazione [(vedasi anche area di competenza: diritto immobiliare)]($competenzeUrl/diritto-immobiliare.html);
 * disamina / redazione e revisione di contratti di appalto/ subappalto;
-* disamina / redazione e revisione di contratti di cessione di marchio [(vedasi anche area di competenza: diritto proprietà intellettuale)](baseUrl/diritto-intellettuale.html);
+* disamina / redazione e revisione di contratti di cessione di marchio [(vedasi anche area di competenza: diritto proprietà intellettuale)]($competenzeUrl/diritto-intellettuale.html);
 * disamina / redazione e revisione di contratti di fornitura, di distribuzione;
 * disamina / redazione e revisione di contratto di affitto e cessione di ramo d'azienda;
 * disamina / redazione e revisione di contratti costitutivi di patti di famiglia;
@@ -49,7 +49,7 @@ Si offre quindi al Cliente la panoramica a 360 gradi di quelli che sono i propri
 * separazione consensuale tramite la procedura di negoziazione assistita; 
 * separazione giudiziale avanti l'Autorità Giudiziaria;
 * ricorsi avanti il Giudice Tutelare per dirimere i conflitti tra genitori; 
-* recupero del credito per mancata corresponsione degli assegni di mantenimento sia in via stragiudiziale che giudiziale [(vedasi area di competenza: recupero del credito)](baseUrl/recupero-credito.html); 
+* recupero del credito per mancata corresponsione degli assegni di mantenimento sia in via stragiudiziale che giudiziale [(vedasi area di competenza: recupero del credito)]($competenzeUrl/recupero-credito.html); 
 * divorzi congiunti avanti le Autorità competenti (assistendo anche entrambi i coniugi); 
 * divorzi tramite la procedura di negoziazione assistita; 
 * regolamentazione delle coppie di fatto; 
@@ -58,6 +58,7 @@ Si offre quindi al Cliente la panoramica a 360 gradi di quelli che sono i propri
 * assistenza, consulenza e rappresentanza in procedimenti relativi ai figli nati fuori dal matrimonio assistendo ove possibili anche entrambi i genitori (es. regolamentazione mantenimento dei figli e modalità di visita);
 * procedimenti di adozioni; 
 * procedura di amministrazione di sostegno e assistenza nella redazione e deposito dei rendiconti.
+
 
 Sempre all'interno della "macroarea" del diritto familiare, ci si occupa poi di **DIRITTO SUCCESSORIO** offrendo consulenza, assistenza e rappresentanza per:
 
@@ -70,7 +71,7 @@ Sempre all'interno della "macroarea" del diritto familiare, ci si occupa poi di 
 * assistenza stragiudiziale e giudiziale in materia di divisione ereditaria.
 
 
-Si offre la propria prestazione professionale per il **RECUPERO  del CREDITO**, con particolare attenzione all'ammortizzamento dei costi per il Cliente. 
+Si offre la propria prestazione professionale per il **RECUPERO  DEL CREDITO**, con particolare attenzione all'ammortizzamento dei costi per il Cliente. 
 Tramite una consulenza preliminare con il Cliente, si adotta la strategia migliore per recuperare il credito, dal tentativo stragiudiziale a mezzo diffida alla successiva eventuale fase giudiziale di recupero.
 Il Cliente dunque viene assistito in tutte le fasi resesi necessarie per recuperare il credito, rappresentandolo altresì avanti le Autorità Giudiziarie competenti, sia per le procedure monitorie sia per le procedure esecutive mobiliari, immobiliari e presso terzi, che da ultimo nelle procedure concorsuali tramite l'insinuazione al passivo nella procedura. 
 Il tutto, ove resosi necessario anche con l'ausilio degli strumenti concessi ex lege per le indagini patrimoniali sui debitori e/o il supporto di agenzie investigative su richiesta del Cliente.
@@ -83,7 +84,7 @@ Nello specifico, si offrono le seguenti prestazioni professionali:
 * assistenza nel deposito di domande di registrazione dei marchi nazionali ed internazionali, sino a completamento della procedura con emissione dell'attestato di registrazione da parte dell'UIBM;
 * assistenza nel deposito di domande di rinnovo dei marchi nazionali ed internazionali;
 * assistenza nel deposito di domande di cessione di marchi;
-* consulenza ed assistenza nella redazione di contratti di cessione de marchi [(vedasi area di competenza: contrattualistica)](baseUrl/contrattualistica.html);
+* consulenza ed assistenza nella redazione di contratti di cessione de marchi [(vedasi area di competenza: contrattualistica)]($competenzeUrl/contrattualistica.html);
 * consulenza in materia di concorrenza sleale e contraffazione;
 * consulenza e assistenza sulla tutela del diritto d'autore;
 
@@ -96,6 +97,7 @@ A tutela dell'interesse del Cliente quindi si offre in particolar modo:
 * collaborazione con periti e medici legali per l'estimazione del danno subito e ricostruzione della dinamica del sinistro;
 * rappresentanza del Cliente in sede giudiziaria;
 * assistenza e consulenza per le compagnie di assicurazione, con conseguente rappresentanza in giudizio.
+
 
 ## FRASI
 
@@ -110,6 +112,63 @@ A tutela dell'interesse del Cliente quindi si offre in particolar modo:
 (Giuseppe Mazzini)
 "Vi è un'arte del silenzio che vale quanto l'eloquenza" (cicerone)
 
+
 ## ABOUT
 
 L'Avvocato Dora Ballabio, dopo aver acquisito il diploma di maturità classica, ha conseguito la Laurea in Giurisprudenza a pieni voti presso l'Università Cattolica del Sacro Cuore di Milano, discutendo la propria tesi in materia civilistica, incentrata sull'analisi dei profili giuridici della responsabilità civile dell'Internet Service Provider (ISP), tramite anche un approccio sperimentale sulle prospettive future della legislazione in tema di responsabilità del ISP. Abilitata nel 2015 come praticante avvocato, ha superato l'Esame di Stato per l'abilitazione forense presso la Corte d'Appello di Milano ed è iscritta nel relativo albo dal 2018. 
+
+## INDEX COMPETENZE
+
+<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
+
+<section class="features">
+    <article>
+        <a href="diritto-immobiliare.html" class="image"><img src="$competenzeImages/diritto-immobiliare.png" alt="" /></a>
+        <h3 class="major">Diritto Immobiliare</h3>
+        <p>Si presta consulenza ed assistenza in materia di DIRITTO IMMOBILIARE, con particolare attenzione alle tematiche di compravendita e di locazioni sia di beni immobili ad uso abitativo che ad uso commerciale.</p>
+        <a href="diritto-immobiliare.html" class="special">Dettagli</a>
+    </article>
+    <article>
+        <a href="diritto-famiglia.html" class="image"><img src="$competenzeImages/diritto-famiglia.png" alt="" /></a>
+        <h3 class="major">Diritto della Famiglia e dei Minori</h3>
+        <p>Si presta consulenza, assistenza e rappresentanza per tutta la materia attinente al DIRITTO DELLA FAMIGLIA E DEI MINORI, ponendo al primo posto l'interesse psicofisico dei minori ed il buon equilibrio della famiglia.</p>
+        <a href="diritto-famiglia.html" class="special">Dettagli</a>
+    </article>
+    <article>
+        <a href="diritto-condominiale.html" class="image"><img src="$competenzeImages/diritto-condominiale.png" alt="" /></a>
+        <h3 class="major">Diritto Condominiale</h3>
+        <p>Ci si occupa stabilmente di DIRITTO CONDOMINIALE, assistendo Amministratori di Condominio e singoli condomini nei rapporti condominiali.</p>
+        <a href="diritto-condominiale.html" class="special">Dettagli</a>
+    </article>
+    <article>
+        <a href="diritto-intellettuale.html" class="image"><img src="$competenzeImages/diritto-intellettuale.png" alt="" /></a>
+        <h3 class="major">Diritto della Proprietà Intellettuale</h3>
+        <p>Si presta consulenza ed assistenza in materia di DIRITTO DELLA PROPRIETA' INTELLETTUALE, ponendo una particolare attenzione allo studio e profilazione della migliore strategia di tutela delle "idee" dei Clienti nonché dei distintivi d'impresa e/o dei prodotti.</p>
+        <a href="diritto-intellettuale.html" class="special">Dettagli</a>
+    </article>
+    <article>
+        <a href="diritto-assicurativo.html" class="image"><img src="$competenzeImages/diritto-assicurativo.png" alt="" /></a>
+        <h3 class="major">Diritto Assicurativo</h3>
+        <p>Si offre la propria attività professionale in materia di DIRITTO ASSICURATIVO, rivolgendosi tanto alle compagnie di assicurazioni quanto ai privati, tutelando sempre l'interesse del Cliente.</p>
+        <a href="diritto-assicurativo.html" class="special">Dettagli</a>
+    </article>
+    <article>
+        <a href="contrattualistica.html" class="image"><img src="$competenzeImages/contrattualistica.png" alt="" /></a>
+        <h3 class="major">Contrattualistica</h3>
+        <p>Si offre ai propri Clienti consulenza personalizzata ed assistenza stragiudiziale in MATERIA CONTRATTUALE al fine di offrire il miglior strumento giuridico possibile a presidio e a tutela dei diritti del Cliente.</p>
+        <a href="contrattualistica.html" class="special">Dettagli</a>
+    </article>
+    <article>
+        <a href="recupero-credito.html" class="image"><img src="$competenzeImages/recupero-credito.png" alt="" /></a>
+        <h3 class="major">Recupero del Credito</h3>
+        <p>Si offre la propria prestazione professionale per il RECUPERO  DEL CREDITO, con particolare attenzione all'ammortizzamento dei costi per il Cliente.</p>
+        <a href="recupero-credito.html" class="special">Dettagli</a>
+    </article>
+    <article>
+        <a href="diritto-successorio.html" class="image"><img src="$competenzeImages/diritto-successorio.png" alt="" /></a>
+        <h3 class="major">Diritto Successorio</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+        <a href="diritto-successorio.html" class="special">Dettagli</a>
+    </article>
+</section>
+
