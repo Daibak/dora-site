@@ -197,7 +197,7 @@ Se esiste anche una sola possibilità che un numero di cose vada male, ad andare
   "@type": "BreadcrumbList",
   "itemListElement": [{
     "@type": "ListItem",
-    "position": 1
+    "position": 1,
     "item": {
       "@id": "$baseUrl/",
       "name": "Avvocato Dora Ballabio",
