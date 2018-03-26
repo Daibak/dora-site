@@ -144,9 +144,9 @@ Se esiste anche una sola possibilità che un numero di cose vada male, ad andare
   "@type": "Attorney",
   "name": "Dora Ballabio",
   "url": "$baseUrl",
-  "logo": "$baseUrl/images/icon.jpg",
-  "image": "$baseUrl/images/icon.jpg",
-  "description": "Avvocato Dora Ballabio iscritta all'Albo degli Avvocati di Milano offre la propria prestazione professionale in ambito civilistico, specializzata in: Diritto Immbobiliare, Locazioni, Diritto Condominiale, Diritto di Famiglia e dei Minori, Diritto Successorio, Diritto della Proprietà Intellettuale, Diritto Assicurativo, Contrattualistica, Recupero del Credito. Contatti dora.ballabio@outlook.it",
+  "logo": "$baseUrl/images/$logoJPEG",
+  "image": "$baseUrl/images/$logoJPEG",
+  "description": "$description",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Via Monteverdi, 16",
@@ -155,7 +155,7 @@ Se esiste anche una sola possibilità che un numero di cose vada male, ad andare
     "postalCode": "20131",
     "addressCountry": "IT"
   },
-  "telephone": "+39 0229516250",
+  "telephone": "+39 $phone",
   "openingHoursSpecification": [
     {
       "@type": "OpeningHoursSpecification",
@@ -183,8 +183,8 @@ Se esiste anche una sola possibilità che un numero di cose vada male, ad andare
     "@type": "ContactPoint",
     "contactType": "customer service",
     "url": "$baseUrl",
-    "telephone": "+39 0229516250",
-    "email": "dora.ballabio@outlook.it"
+    "telephone": "+39 $phone",
+    "email": "$mail"
   }
 }
 </script>
@@ -197,11 +197,11 @@ Se esiste anche una sola possibilità che un numero di cose vada male, ad andare
   "@type": "BreadcrumbList",
   "itemListElement": [{
     "@type": "ListItem",
-    "position": 21
+    "position": 1
     "item": {
       "@id": "$baseUrl/",
       "name": "Avvocato Dora Ballabio",
-      "image": "$baseUrl/images/icon.png"
+      "image": "$baseUrl/images/$logo"
     }
   },{
     "@type": "ListItem",
@@ -209,15 +209,15 @@ Se esiste anche una sola possibilità che un numero di cose vada male, ad andare
     "item": {
       "@id": "$baseUrl/competenze",
       "name": "Competenze",
-      "image": "$baseUrl/images/icon.png"
+      "image": "$baseUrl/images/$logo"
     }
   },{
     "@type": "ListItem",
     "position": 3,
     "item": {
       "@id": "$baseUrl/competenze/$page.html",
-      "name": "Diritto Immobiliare",
-      "image": "$baseUrl/images/$page.png"
+      "name": "$title",
+      "image": "$baseUrl/images/$page.$iconsExt"
     }
   }]
 }

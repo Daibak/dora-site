@@ -11,12 +11,15 @@ def main(args):
     tpl = Template(args.templateFile.read())
 
     definitions = {}
+
     for fi in args.i:
         ld = yaml.load(fi)
+
         if ld is not None:
             definitions.update(ld)
 
-    output = tpl.substitute(definitions)
+    outputWithoutRecursion = tpl.substitute(definitions)
+    output = Template(outputWithoutRecursion).substitute(definitions)
     args.o.write(output)
 
 
@@ -33,8 +36,8 @@ if __name__ == "__main__":
                         type=argparse.FileType('w'), default=sys.stdout)
     args = parser.parse_args()
     main(args)
+
     for f in args.i:
         f.close()
     args.o.close()
     args.templateFile.close()
-

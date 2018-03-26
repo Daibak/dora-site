@@ -5,30 +5,6 @@ title: Diritto Successorio
 description: 
 subTitle: 
 citation: 
-structuredData: |
-    <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [{
-        "@type": "ListItem",
-        "position": 1,
-        "item": {
-          "@id": "https://avvocatodoraballabio.com/competenze",
-          "name": "Competenze",
-          "image": "https://avvocatodoraballabio.com/images/icon.png"
-        }
-      },{
-        "@type": "ListItem",
-        "position": 2,
-        "item": {
-          "@id": "https://avvocatodoraballabio.com/competenze/diritto-successorio.html",
-          "name": "Diritto Immobiliare",
-          "image": "https://avvocatodoraballabio.com/images/diritto-successorio.png"
-        }
-      }]
-    }
-    </script>
 content: |
     <p>Sempre all’interno della “macroarea” del diritto familiare, ci si occupa poi di <strong>DIRITTO SUCCESSORIO</strong> offrendo consulenza, assistenza e rappresentanza per:</p>
     <ul>

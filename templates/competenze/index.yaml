@@ -12,11 +12,19 @@ structuredData: |
       "@type": "BreadcrumbList",
       "itemListElement": [{
         "@type": "ListItem",
-        "position": 1,
+        "position": 1
         "item": {
-          "@id": "https://avvocatodoraballabio.com/competenze",
+          "@id": "$baseUrl/",
+          "name": "Avvocato Dora Ballabio",
+          "image": "$baseUrl/images/$logo"
+        }
+      },{
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "$baseUrl/competenze",
           "name": "Competenze",
-          "image": "https://avvocatodoraballabio.com/images/icon.png"
+          "image": "$baseUrl/images/$logo"
         }
       }]
     }

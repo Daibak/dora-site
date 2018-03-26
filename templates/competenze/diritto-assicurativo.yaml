@@ -5,30 +5,6 @@ title: Diritto Assicurativo
 description: Si offre la propria attività professionale in materia di DIRITTO ASSICURATIVO, rivolgendosi tanto alle compagnie di assicurazioni quanto ai privati, tutelando sempre l'interesse del Cliente.
 subTitle: 
 citation: Disgraziatamente gli umani sono imprevedibili. Spesso con le migliori intenzioni causano i danni peggiori. (Luis Sepúlveda)
-structuredData: |
-    <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [{
-        "@type": "ListItem",
-        "position": 1,
-        "item": {
-          "@id": "https://avvocatodoraballabio.com/competenze",
-          "name": "Competenze",
-          "image": "https://avvocatodoraballabio.com/images/icon.png"
-        }
-      },{
-        "@type": "ListItem",
-        "position": 2,
-        "item": {
-          "@id": "https://avvocatodoraballabio.com/competenze/diritto-assicurativo.html",
-          "name": "Diritto Immobiliare",
-          "image": "https://avvocatodoraballabio.com/images/diritto-assicurativo.png"
-        }
-      }]
-    }
-    </script>
 content: |
     <p>Si offre la propria attività professionale in materia di <strong>DIRITTO ASSICURATIVO</strong>, rivolgendosi tanto alle compagnie di assicurazioni quanto ai privati, tutelando sempre l’interesse del Cliente. A tutela dell’interesse del Cliente quindi si offre in particolar modo:</p>
     <ul>

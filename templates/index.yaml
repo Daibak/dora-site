@@ -9,10 +9,10 @@ structuredData: |
       "@context": "http://www.schema.org",
       "@type": "Attorney",
       "name": "Dora Ballabio",
-      "url": "https://avvocatodoraballabio.com",
-      "logo": "https://avvocatodoraballabio.com/images/icon.jpg",
-      "image": "https://avvocatodoraballabio.com/images/icon.jpg",
-      "description": "Avvocato Dora Ballabio iscritta all'Albo degli Avvocati di Milano offre la propria prestazione professionale in ambito civilistico, specializzata in: Diritto Immbobiliare, Locazioni, Diritto Condominiale, Diritto di Famiglia e dei Minori, Diritto Successorio, Diritto della Proprietà Intellettuale, Diritto Assicurativo, Contrattualistica, Recupero del Credito. Contatti dora.ballabio@outlook.it",
+      "url": "$baseUrl",
+      "logo": "$baseUrl/images/$logoJPEG",
+      "image": "$baseUrl/images/$logoJPEG",
+      "description": "$description",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Via Monteverdi, 16",
@@ -21,7 +21,7 @@ structuredData: |
         "postalCode": "20131",
         "addressCountry": "IT"
       },
-      "telephone": "+39 0229516250",
+      "telephone": "+39 $phone",
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
@@ -48,10 +48,25 @@ structuredData: |
       "contactPoint": {
         "@type": "ContactPoint",
         "contactType": "customer service",
-        "url": "https://avvocatodoraballabio.com",
-        "telephone": "+39 0229516250",
-        "email": "dora.ballabio@outlook.it"
+        "url": "$baseUrl",
+        "telephone": "+39 $phone",
+        "email": "$mail"
       }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 21
+        "item": {
+          "@id": "$baseUrl/",
+          "name": "Avvocato Dora Ballabio",
+          "image": "$baseUrl/images/$logo"
+        }
+      }]
     }
     </script>
 

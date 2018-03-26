@@ -6,11 +6,14 @@ faviconsExtension: png
 siteName: Avvocato Dora Ballabio
 mail: dora.ballabio@outlook.it
 mailPec: dora.ballabio@milano.pecavvocati.it
-phone: "(02) 29516250"
-cell: "(+39) 340-467-9375"
+phone: "02 29516250"
+cell: "+39 340 467 9375"
 address: |
     Presso Studio Legale Benato<br />
     Via Monteverdi, 16<br />
     20131 - Milano (MI), Italia<br />
 addressLink: https://goo.gl/maps/h83VKFeKEU62
 linkedin: https://it.linkedin.com/in/dora-ballabio-48014073
+logo: logo.png
+logoJPEG: logo.jpeg
+iconsExt: png
