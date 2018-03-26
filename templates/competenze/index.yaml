@@ -5,6 +5,22 @@ title: Competenze
 description: Indice delle competenze offerte dall'Avvocato Dora Ballabio
 subtitle: 
 citation: Prima societas in ipso coniugio est, proxima in liberis, deinde una domus, communia omnia; id autem est principium urbis et quasi seminarium rei publicae. (Cicerone)
+structuredData: |
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https://avvocatodoraballabio.com/competenze",
+          "name": "Competenze",
+          "image": "https://avvocatodoraballabio.com/images/icon.png"
+        }
+      }]
+    }
+    </script>
 content: |
     <p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
 

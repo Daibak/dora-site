@@ -5,6 +5,30 @@ title: Diritto Immobiliare
 description: Si presta consulenza ed assistenza in materia di DIRITTO IMMOBILIARE, con particolare attenzione alle tematiche di compravendita e di locazioni sia di beni immobili ad uso abitativo che ad uso commerciale.
 subtitle:
 citation: La proprietà privata è cominciata nel momento stesso in cui qualcuno ha cominciato a pensare in modo indipendente. (Cummings Edward Estlin)
+structuredData: |
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https://avvocatodoraballabio.com/competenze",
+          "name": "Competenze",
+          "image": "https://avvocatodoraballabio.com/images/icon.png"
+        }
+      },{
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "https://avvocatodoraballabio.com/competenze/diritto-immobiliare.html",
+          "name": "Diritto Immobiliare",
+          "image": "https://avvocatodoraballabio.com/images/diritto-immobiliare.png"
+        }
+      }]
+    }
+    </script>
 content: |
     <p>Si presta consulenza ed assistenza in materia di <strong>DIRITTO IMMOBILIARE</strong>, con particolare attenzione alle tematiche di compravendita e di locazioni sia di beni immobili ad uso abitativo che ad uso commerciale. La consulenza viene plasmata ad hoc per le esigenze del Cliente, per poterlo supportare a tutto tondo e garantire un’assistenza che nel più breve tempo possibile, e ad un costo sostenibile, soddisfi il Cliente. Per raggiungere tale obiettivo si pone particolare attenzione a tutte le fasi necessarie al raggiungimento del risultato prefissato, dalle indagini preliminari (ricerche in conservatorie, catasto, etc.), alla redazione e negoziazione dei contratti richiesti, oltreché affiancamento negli adempimenti successivi. A titolo esemplificativo si offrono le seguenti prestazioni:</p>
     <ul>

@@ -4,7 +4,31 @@ page: contrattualistica
 title: Contrattualistica
 description: Si offre ai propri Clienti consulenza personalizzata ed assistenza stragiudiziale in MATERIA CONTRATTUALE al fine di offrire il miglior strumento giuridico possibile a presidio e a tutela dei diritti del Cliente.
 subTitle:
-citation: Il diritto è l'unica forma di conoscenza che abbiamo, perché è l'esperienza stessa che si fissa nelle forme giuridiche. (Salvatore Satta) 
+citation: Il diritto è l'unica forma di conoscenza che abbiamo, perché è l'esperienza stessa che si fissa nelle forme giuridiche. (Salvatore Satta)
+structuredData: |
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https://avvocatodoraballabio.com/competenze",
+          "name": "Competenze",
+          "image": "https://avvocatodoraballabio.com/images/icon.png"
+        }
+      },{
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "https://avvocatodoraballabio.com/competenze/contrattualistica.html",
+          "name": "Diritto Immobiliare",
+          "image": "https://avvocatodoraballabio.com/images/contrattualistica.png"
+        }
+      }]
+    }
+    </script> 
 content: |
     <p>Si offre ai propri Clienti consulenza personalizzata ed assistenza stragiudiziale in <strong>MATERIA CONTRATTUALE</strong> al fine di offrire il miglior strumento giuridico possibile a presidio e a tutela dei diritti del Cliente. In particolare si offre assistenza per:</p>
     <ul>

@@ -135,14 +135,17 @@ Se esiste anche una sola possibilità che un numero di cose vada male, ad andare
 
 ## Structured Data
 
+
+### Local Business
+
 <script type='application/ld+json'> 
 {
   "@context": "http://www.schema.org",
   "@type": "Attorney",
   "name": "Dora Ballabio",
-  "url": "https://avvocatodoraballabio.com",
-  "logo": "https://avvocatodoraballabio.com/images/icon.jpg",
-  "image": "https://avvocatodoraballabio.com/images/icon.jpg",
+  "url": "$baseUrl",
+  "logo": "$baseUrl/images/icon.jpg",
+  "image": "$baseUrl/images/icon.jpg",
   "description": "Avvocato Dora Ballabio iscritta all'Albo degli Avvocati di Milano offre la propria prestazione professionale in ambito civilistico, specializzata in: Diritto Immbobiliare, Locazioni, Diritto Condominiale, Diritto di Famiglia e dei Minori, Diritto Successorio, Diritto della Proprietà Intellettuale, Diritto Assicurativo, Contrattualistica, Recupero del Credito. Contatti dora.ballabio@outlook.it",
   "address": {
     "@type": "PostalAddress",
@@ -157,10 +160,36 @@ Se esiste anche una sola possibilità che un numero di cose vada male, ad andare
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "customer service",
-    "url": "https://avvocatodoraballabio.com",
+    "url": "$baseUrl",
     "telephone": "+39 0229516250",
     "email": "dora.ballabio@outlook.it"
   }
+}
+</script>
+
+### BreadCrumb
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "$baseUrl/competenze",
+      "name": "Competenze",
+      "image": "$baseUrl/images/icon.png"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "$baseUrl/competenze/$page.html",
+      "name": "Diritto Immobiliare",
+      "image": "$baseUrl/images/$page.png"
+    }
+  }]
 }
 </script>
 
