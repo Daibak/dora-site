@@ -101,25 +101,75 @@ A tutela dell'interesse del Cliente quindi si offre in particolar modo:
 
 ## FRASI
 
-"Siamo schiavi delle leggi, per poter essere liberi" Legum servi sumus ut liberi esse possimus) Cicerone
+### Indice Competenze
+Prima societas in ipso coniugio est, proxima in liberis, deinde una domus, communia omnia; id autem est principium urbis et quasi seminarium rei publicae. (Cicerone)
+
+### Per diritto assicurativo
+Disgraziatamente gli umani sono imprevedibili. Spesso con le migliori intenzioni causano i danni peggiori. (Luis Sepúlveda)
+
+### Per famiglia
+Bisognerebbe studiare le persone allo stesso modo in cui si studiano i libri. (Baltasar Gracián)
+
+### Per diritto immobiliare
+La proprietà privata è cominciata nel momento stesso in cui qualcuno ha cominciato a pensare in modo indipendente. (Cummings Edward Estlin)
+ 
+### Per contrattualistica
+Il diritto è l'unica forma di conoscenza che abbiamo, perché è l'esperienza stessa che si fissa nelle forme giuridiche. (Salvatore Satta) 
+
+### Per diritto intellettuale
+Il diritto è nel mondo delle forme visibili quel che l'arte è nel mondo delle forme invisibili. (Salvatore Satta)
+
+### Per diritto condominiale
+Le parole hanno un grande potere simbolico e il modo in cui vengono utilizzate ha un'influenza decisiva sul modo in cui concepiamo la realtà. (Kallistos Ware)
+
+### Per recupero del credito
+Se esiste anche una sola possibilità che un numero di cose vada male, ad andare male è sicuramente quella destinata a provocare il danno maggiore. (Arthur Bloch)
+
+"Siamo schiavi delle leggi, per poter essere liberi" Legum servi sumus ut liberi esse possimus) (Cicerone)
 "Il grande avvocato è quello  utile ai giudici per aiutarli a decidere secondo giustizia, utile al cliente per aiutarlo a far valere le proprie ragioni" (Piero Calamandrei)
 "La legge è il giusto criterio di comandare e di proibire" (Lex est recta ratio imperandi atque prohibendi)
-"Le buone leggi rendono più facile fare la cosa giusta e più difficile quella sbagliata"
-(William E. Gladstone)
-"Dove non c'è legge non c'è libertà"
- (John Locke)
-"Non v'è vita senza legge. Qualunque cosa esiste, esiste in un certo modo, secondo certe condizioni, con una certa legge"
-(Giuseppe Mazzini)
-"Vi è un'arte del silenzio che vale quanto l'eloquenza" (cicerone)
+"Le buone leggi rendono più facile fare la cosa giusta e più difficile quella sbagliata" (William E. Gladstone)
+"Dove non c'è legge non c'è libertà" (John Locke)
+"Non v'è vita senza legge. Qualunque cosa esiste, esiste in un certo modo, secondo certe condizioni, con una certa legge" (Giuseppe Mazzini)
+"Vi è un'arte del silenzio che vale quanto l'eloquenza" (Cicerone)
 
+## Structured Data
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "Attorney",
+  "name": "Dora Ballabio",
+  "url": "https://avvocatodoraballabio.com",
+  "logo": "https://avvocatodoraballabio.com/images/icon.jpg",
+  "image": "https://avvocatodoraballabio.com/images/icon.jpg",
+  "description": "Avvocato Dora Ballabio iscritta all'Albo degli Avvocati di Milano offre la propria prestazione professionale in ambito civilistico, specializzata in: Diritto Immbobiliare, Locazioni, Diritto Condominiale, Diritto di Famiglia e dei Minori, Diritto Successorio, Diritto della Proprietà Intellettuale, Diritto Assicurativo, Contrattualistica, Recupero del Credito. Contatti dora.ballabio@outlook.it",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Monteverdi, 16",
+    "addressLocality": "Milan",
+    "addressRegion": "Lombardy",
+    "postalCode": "20131",
+    "addressCountry": "IT"
+  },
+  "telephone": "+39 0229516250",
+  "openingHours": "Mo, Tu, We, Th, Fr -",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "url": "https://avvocatodoraballabio.com",
+    "telephone": "+39 0229516250",
+    "email": "dora.ballabio@outlook.it"
+  }
+}
+</script>
 
 ## ABOUT
-
 L'Avvocato Dora Ballabio, dopo aver acquisito il diploma di maturità classica, ha conseguito la Laurea in Giurisprudenza a pieni voti presso l'Università Cattolica del Sacro Cuore di Milano, discutendo la propria tesi in materia civilistica, incentrata sull'analisi dei profili giuridici della responsabilità civile dell'Internet Service Provider (ISP), tramite anche un approccio sperimentale sulle prospettive future della legislazione in tema di responsabilità del ISP. Abilitata nel 2015 come praticante avvocato, ha superato l'Esame di Stato per l'abilitazione forense presso la Corte d'Appello di Milano ed è iscritta nel relativo albo dal 2018. 
 
 ## INDEX COMPETENZE
 
-<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
+<p></p>
 
 <section class="features">
     <article>

@@ -44,6 +44,8 @@
         <link rel="stylesheet" href="assets/css/main.css" />
         <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
         <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+        
+        $structuredData
     </head>
     <body>
 
@@ -127,7 +129,7 @@
                 <section id="four" class="wrapper alt style1">
                     <div id="about" class="inner">
                         <h2 class="major">About</h2>
-                        <p>L’Avvocato Dora Ballabio, dopo aver acquisito il diploma di maturità classica, ha conseguito la Laurea in Giurisprudenza a pieni voti presso l’Università Cattolica del Sacro Cuore di Milano, discutendo la propria tesi in materia civilistica, incentrata sull’analisi dei profili giuridici della responsabilità civile dell’Internet Service Provider (ISP), tramite anche un approccio sperimentale sulle prospettive future della legislazione in tema di responsabilità del ISP. Abilitata nel 2015 come praticante avvocato, ha superato l’Esame di Stato per l’abilitazione forense presso la Corte d’Appello di Milano ed è iscritta nel relativo albo dal 2018.</p>
+                        <p>L’Avvocato Dora Ballabio, dopo aver acquisito il diploma di maturità classica, ha conseguito la Laurea in Giurisprudenza a pieni voti presso l’Università Cattolica del Sacro Cuore di Milano, discutendo la propria tesi in materia civilistica, incentrata sull’analisi dei profili giuridici della responsabilità civile dell’Internet Service Provider (ISP), tramite anche un approccio sperimentale sulle prospettive future della legislazione in tema di responsabilità del ISP. Abilitata nel 2015 come praticante avvocato, ha superato l’Esame di Stato per l’abilitazione forense presso la Corte d’Appello di Milano ed è iscritta nel relativo albo.</p>
                     </div>
                 </section>
 
@@ -177,7 +179,7 @@
 
         <!-- Scripts -->
         <script src="assets/js/skel.min.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <script src="assets/js/jquery.scrollex.min.js"></script>
         <script src="assets/js/util.js"></script>
         <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->

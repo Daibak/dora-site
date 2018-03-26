@@ -77,7 +77,7 @@
                 <header>
                     <div class="inner">
                         <h2>$title</h2>
-                        <p>Phasellus non pulvinar erat. Fusce tincidunt nisl eget ipsum.</p>
+                        <p>$citation</p>
                     </div>
                 </header>
 
