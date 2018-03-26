@@ -19,11 +19,6 @@ def main(args):
     output = tpl.substitute(definitions)
     args.o.write(output)
 
-    for f in args.i:
-        f.close()
-    args.o.close()
-    args.templateFile.close()
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
@@ -36,4 +31,10 @@ if __name__ == "__main__":
                         type=argparse.FileType('r'), default=sys.stdin)
     parser.add_argument("-o", metavar="output-file", help="Path to output file",
                         type=argparse.FileType('w'), default=sys.stdout)
-    main(parser.parse_args())
+    args = parser.parse_args()
+    main(args)
+    for f in args.i:
+        f.close()
+    args.o.close()
+    args.templateFile.close()
+

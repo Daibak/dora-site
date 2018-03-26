@@ -197,7 +197,15 @@ Se esiste anche una sola possibilità che un numero di cose vada male, ad andare
   "@type": "BreadcrumbList",
   "itemListElement": [{
     "@type": "ListItem",
-    "position": 1,
+    "position": 21
+    "item": {
+      "@id": "$baseUrl/",
+      "name": "Avvocato Dora Ballabio",
+      "image": "$baseUrl/images/icon.png"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
     "item": {
       "@id": "$baseUrl/competenze",
       "name": "Competenze",
@@ -205,7 +213,7 @@ Se esiste anche una sola possibilità che un numero di cose vada male, ad andare
     }
   },{
     "@type": "ListItem",
-    "position": 2,
+    "position": 3,
     "item": {
       "@id": "$baseUrl/competenze/$page.html",
       "name": "Diritto Immobiliare",
