@@ -60,7 +60,7 @@ structuredData: |
       "@type": "BreadcrumbList",
       "itemListElement": [{
         "@type": "ListItem",
-        "position": 21
+        "position": 1
         "item": {
           "@id": "$baseUrl/",
           "name": "Avvocato Dora Ballabio",
