@@ -1,6 +1,18 @@
 %YAML 1.2
 ---
 dirUrl: competenze
+headerBreadcrumb: |
+    <ol class="breadcrumb">
+        <li>
+            <a href="../index.html">Avvocato Dora Ballabio</a>
+        </li>
+        <li>
+            <a href="index.html">Competenze</a>
+        </li>
+        <li>
+            <a href="#">$page</a>
+        </li>
+    </ol>
 structuredData: |
     <script type="application/ld+json">
     {

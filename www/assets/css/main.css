@@ -2836,17 +2836,46 @@
 			margin-bottom: 0;
 			opacity: 1;
 			visibility: visible;
+            background-image: url('../../images/logo16.png');
+            padding-left: 1.5em;
+            background-position: left 35%;
+            background-repeat: no-repeat;
+            background-size: 2em;
 		}
 
 			#header h1 a {
-				border: 0;
-                background-image: url('../../images/logo16.png');
-                background-position: left 35%;
-                background-repeat: no-repeat;
-                background-size: 2em;
-                display: block;
-                padding-left: 2.7em;
+				border-bottom: 0;
 			}
+			
+		    #header ol.breadcrumb {
+                list-style: none;
+            }
+            
+            #header ol.breadcrumb li {
+                display: inline;
+            }
+
+            #header ol.breadcrumb li:last-child {
+                color: cornflowerblue;
+                opacity: 0.8;
+            }
+
+            #header ol.breadcrumb li:first-child {
+                color: inherit;
+                opacity: 1;
+            }
+            
+            #header ol.breadcrumb li+li:before {
+                padding: 0.2em;
+                content: "\003e";
+                color: cornflowerblue;
+            }
+            
+            #header ol.breadcrumb li a {
+            }
+            
+            #header ol.breadcrumb li a:hover {
+            }
 
 		#header nav {
 			font-family: Raleway, Helvetica, sans-serif;
@@ -2963,6 +2992,26 @@
 					margin-left: 0;
 					padding-right: 1.25em;
 				}
+
+		}
+
+		@media screen and (max-width: 435px) {
+            
+            #header ol.breadcrumb li:first-child {
+                display: none;
+            }
+
+            #header ol.breadcrumb li:last-child {
+                display: inline;
+            }
+
+		}
+
+		@media screen and (max-width: 325px) {
+            
+            #header ol.breadcrumb li:nth-last-child(2) {
+                display: none;
+            }
 
 		}
 

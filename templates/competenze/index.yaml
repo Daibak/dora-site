@@ -29,6 +29,15 @@ structuredData: |
       }]
     }
     </script>
+headerBreadcrumb: |
+    <ol class="breadcrumb">
+        <li>
+            <a href="../index.html">Avvocato Dora Ballabio</a>
+        </li>
+        <li>
+            <a href="index.html">Competenze</a>
+        </li>
+    </ol>
 content: |
     <p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
 
@@ -72,7 +81,7 @@ content: |
         <article>
             <a href="recupero-credito.html" class="image"><img src="../images/recupero-credito.png" alt="" /></a>
             <h3 class="major">Recupero del Credito</h3>
-            <p>Si offre la propria prestazione professionale per il <strong>RECUPERO del CREDITO</strong>, con particolare attenzione all’ammortizzamento dei costi per il Cliente.</p>
+            <p>Si offre la propria prestazione professionale per il <strong>RECUPERO DEL CREDITO</strong>, con particolare attenzione all’ammortizzamento dei costi per il Cliente.</p>
             <a href="recupero-credito.html" class="special">Dettagli</a>
         </article>
         <article>

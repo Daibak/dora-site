@@ -3,6 +3,12 @@
 faviconsPrefix: favicons/favicon-
 title: Avvocato Dora Ballabio
 description: "Avvocato Dora Ballabio iscritta all'Albo degli Avvocati di Milano offre la propria prestazione professionale in ambito civilistico, specializzata in: Diritto Immbobiliare, Locazioni, Diritto Condominiale, Diritto di Famiglia e dei Minori, Diritto Successorio, Diritto della Proprietà Intellettuale, Diritto Assicurativo, Contrattualistica, Recupero del Credito. Contatti dora.ballabio@outlook.it"
+headerBreadcrumb: |
+    <ol class="breadcrumb">
+        <li>
+            <a href="#">Avvocato Dora Ballabio</a>
+        </li>
+    </ol>
 structuredData: |
     <script type='application/ld+json'> 
     {

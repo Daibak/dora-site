@@ -44,7 +44,7 @@
         <link rel="stylesheet" href="assets/css/main.css" />
         <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
         <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-        
+
         $structuredData
     </head>
     <body>
@@ -54,7 +54,9 @@
 
             <!-- Header -->
             <header id="header" class="alt">
-                <h1><a href="index.html">$siteName</a></h1>
+                <h1>
+                    $headerBreadcrumb
+                </h1>
                 <nav>
                     <a href="#menu">Menu</a>
                 </nav>
