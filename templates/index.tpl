@@ -139,42 +139,7 @@
 
             <!-- Footer -->
             <section id="footer">
-                <div class="inner">
-                    <h2 class="major">Contatti</h2>
-                    <p>Per concordare un appuntamento compili ed invii il modulo sottostante.
-                    Oppure utilizzi i seguenti riferimenti.</p>
-                    <form method="POST" action="https://formspree.io/$mail">
-                        <div class="field">
-                            <label for="name">Name</label>
-                            <input type="text" name="name" id="name" />
-                        </div>
-                        <div class="field">
-                            <label for="email">Email</label>
-                            <input type="email" name="email" id="email" />
-                        </div>
-                        <div class="field">
-                            <label for="message">Message</label>
-                            <textarea name="message" id="message" rows="4"></textarea>
-                        </div>
-                        <ul class="actions">
-                            <li><input type="submit" value="Send Message" /></li>
-                        </ul>
-                        <input type="hidden" name="_language" value="it" />
-                    </form>
-                    <ul class="contact">
-                        <li class="fa-home">
-                            <a href="$addressLink">$address</a>
-                        </li>
-                        <li class="fa-phone"><a href="tel:$phone">$phone</a></li>
-                        <li class="fa-phone"><a href="tel:$cell">$cell</a></li>
-                        <li class="fa-envelope"><a href="mailto:$mailPec">$mailPec</a></li>
-                        <li class="fa-envelope"><a href="mailto:$mail">$mail</a></li>
-                        <li class="fa-linkedin"><a href="$linkedin">$linkedin</a></li>
-                    </ul>
-                    <ul class="copyright">
-                        <li>&copy; Dora Ballabio All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-                    </ul>
-                </div>
+                $footer
             </section>
 
         </div>
