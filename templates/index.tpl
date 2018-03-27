@@ -26,11 +26,11 @@
         <link rel="canonical" href="$baseUrl/index.html" />
 
         <!--  Icons -->
-        <link rel="icon" href="${faviconsPrefix}16.$faviconsExtension" sizes="16x16" type="image/png">
-        <link rel="icon" href="${faviconsPrefix}32.$faviconsExtension" sizes="32x32" type="image/png">
-        <link rel="icon" href="${faviconsPrefix}48.$faviconsExtension" sizes="48x48" type="image/png">
-        <link rel="icon" href="${faviconsPrefix}96.$faviconsExtension" sizes="96x96" type="image/png">
-        <link rel="icon" href="${faviconsPrefix}192.$faviconsExtension" sizes="192x192" type="image/png">
+        <link rel="icon" href="${faviconsPrefix}16.$faviconsExtension" sizes="16x16" type="image/$faviconsExtension">
+        <link rel="icon" href="${faviconsPrefix}32.$faviconsExtension" sizes="32x32" type="image/$faviconsExtension">
+        <link rel="icon" href="${faviconsPrefix}48.$faviconsExtension" sizes="48x48" type="image/$faviconsExtension">
+        <link rel="icon" href="${faviconsPrefix}96.$faviconsExtension" sizes="96x96" type="image/$faviconsExtension">
+        <link rel="icon" href="${faviconsPrefix}192.$faviconsExtension" sizes="192x192" type="image/$faviconsExtension">
 
         <!--
             <link rel="apple-touch-icon" href="older-iPhone.png"> <!- 120px ->
@@ -119,7 +119,7 @@
                             <p>Si presta consulenza, assistenza e rappresentanza per tutta la materia attinente al DIRITTO DELLA FAMIGLIA E DEI MINORI,, ponendo al primo posto l’interesse psicofisiche dei minori ed il buon equilibrio della famiglia.</p>
                             <a href="competenze/diritto-famiglia.html" class="special">Dettagli</a>
                             <ul class="actions">
-                                <li><a href="comptenze/index.html" class="button">Altre Competenze</a></li>
+                                <li><a href="competenze/index.html" class="button">Altre Competenze</a></li>
                             </ul>
                         </div>
                     </div>

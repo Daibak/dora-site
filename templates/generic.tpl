@@ -16,21 +16,21 @@
         <!--  Essential META Tags -->
         <meta property="og:title" content="$title">
         <meta property="og:description" content="$description">
-        <meta property="og:image" content="$baseUrl/images/icon.jpg">
-        <meta property="og:url" content="$baseUrl/$page.html">
+        <meta property="og:image" content="$baseUrl/images/$logoJPEG">
+        <meta property="og:url" content="$baseUrl/competenze/$page.html">
         <meta property="og:site_name" content="$siteName">
 
         <!--  Non-Essential, But Recommended -->
         <meta name="twitter:image:alt" content="$siteName">
         <meta name="referrer" content="no-referrer-when-downgrade">
-        <link rel="canonical" href="$baseUrl/$page.html" />
+        <link rel="canonical" href="$baseUrl/competenze/$page.html" />
 
         <!--  Icons -->
-        <link rel="icon" href="${faviconsPrefix}16.$faviconsExtension" sizes="16x16" type="image/png">
-        <link rel="icon" href="${faviconsPrefix}32.$faviconsExtension" sizes="32x32" type="image/png">
-        <link rel="icon" href="${faviconsPrefix}48.$faviconsExtension" sizes="48x48" type="image/png">
-        <link rel="icon" href="${faviconsPrefix}96.$faviconsExtension" sizes="96x96" type="image/png">
-        <link rel="icon" href="${faviconsPrefix}192.$faviconsExtension" sizes="192x192" type="image/png">
+        <link rel="icon" href="${faviconsPrefix}16.$faviconsExtension" sizes="16x16" type="image/$faviconsExtension">
+        <link rel="icon" href="${faviconsPrefix}32.$faviconsExtension" sizes="32x32" type="image/$faviconsExtension">
+        <link rel="icon" href="${faviconsPrefix}48.$faviconsExtension" sizes="48x48" type="image/$faviconsExtension">
+        <link rel="icon" href="${faviconsPrefix}96.$faviconsExtension" sizes="96x96" type="image/$faviconsExtension">
+        <link rel="icon" href="${faviconsPrefix}192.$faviconsExtension" sizes="192x192" type="image/$faviconsExtension">
 
         <!--
             <link rel="apple-touch-icon" href="older-iPhone.png"> <!- 120px ->
