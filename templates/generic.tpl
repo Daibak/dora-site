@@ -100,7 +100,7 @@
                     <h2 class="major">Contatti</h2>
                     <p>Per concordare un appuntamento compili ed invii il modulo sottostante.
                     Oppure utilizzi i seguenti riferimenti.</p>
-                    <form method="post" action="$mail">
+                    <form method="post" action="https://formspree.io/$mail">
                         <div class="field">
                             <label for="name">Name</label>
                             <input type="text" name="name" id="name" />

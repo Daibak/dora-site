@@ -59,6 +59,21 @@ Si offre quindi al Cliente la panoramica a 360 gradi di quelli che sono i propri
 * procedimenti di adozioni; 
 * procedura di amministrazione di sostegno e assistenza nella redazione e deposito dei rendiconti.
 
+## DIRITTO DEL LAVORO e DELLA PREVIDENZA SOCIALE
+Si offre la propria prestazione professionale in materia **GIUSLAVORISTICA**, prestando consulenza, assistenza e rappresentanza al Cliente, in ciò che attiene il mondo del lavoro in sede stragiudiziale (conciliazioni avanti i sindacati, mediazioni) ed in sede giudiziale. Ci si occupa quindi di:
+
+*   Impugnazione Licenziamento;
+*   Riconoscimento Livello Superiore e riconoscimento Differenze Retributive;
+*   Cause di Mobbing e risarcimento Danno non Patrimoniale;
+*   Lavoro non regolare;
+*   Recupero retribuzioni non corrisposte;
+*   Risarcimento Danni da Infortunio sul lavoro e Malattie Professionali;
+*   Contenziosi contro Istituti Previdenziali (Inps, Inpdap, Strutture Pubbliche);
+*   Tutela Lavoratori del Settore Pubblico: risarcimento dei danni per lavoratori pubblici precari;
+*   Tutela contro i Trasferimenti Illegittimi.
+
+
+Ci si occupa di **DIRITTO SUCCESSORIO** offrendo consulenza, assistenza e rappresentanza nell'ambito della successione del de cuius, con riguardo sia alla successione testamentaria sia alla successione legittima (ossia priva di testamento). Si affianca dunque il Cliente in ogni fase che si rende necessaria, per supportarlo ed assisterlo nella delicata materia successoria.
 
 Sempre all'interno della "macroarea" del diritto familiare, ci si occupa poi di **DIRITTO SUCCESSORIO** offrendo consulenza, assistenza e rappresentanza per:
 
