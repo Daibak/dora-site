@@ -89,7 +89,7 @@
                 <div class="wrapper">
                     <div class="inner">
 
-                        <h3 class="major">Lorem ipsum dolor</h3>
+                        <h3 class="major">$subtitle</h3>
                         $content
                     </div>
                 </div>
