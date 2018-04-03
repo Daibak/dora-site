@@ -1,3 +1,4 @@
+## Diritto Immobiliare
 Si presta consulenza ed assistenza in materia di **DIRITTO IMMOBILIARE**, con particolare attenzione alle tematiche di compravendita e di locazioni sia di beni immobili ad uso abitativo che ad uso commerciale. 
 La consulenza viene plasmata ad hoc per le esigenze del Cliente, per poterlo supportare a tutto tondo e garantire un'assistenza che nel più breve tempo possibile, e ad un costo sostenibile, soddisfi il Cliente. Per raggiungere tale obiettivo si pone particolare attenzione a tutte le fasi necessarie al raggiungimento del risultato prefissato, dalle indagini preliminari (ricerche in conservatorie, catasto, etc.), alla redazione e negoziazione dei contratti richiesti, oltreché affiancamento negli adempimenti successivi.
 A titolo esemplificativo si offrono le seguenti prestazioni:
@@ -15,7 +16,7 @@ A titolo esemplificativo si offrono le seguenti prestazioni:
 * azioni di accertamento d'usucapione;
 * azioni di responsabilità contrattuale ed extra contrattuale per difformità e/o vizi dei beni acquistati/venduti.
 
-
+## Diritto Condominiale
 Ci si occupa stabilmente di **DIRITTO CONDOMINIALE**, assistendo Amministratori di Condominio e singoli condomini nei rapporti condominiali, con specifico riguardo:
 
 * consulenza e revisione del testo dell'Ordine del Giorno;
@@ -28,7 +29,7 @@ Ci si occupa stabilmente di **DIRITTO CONDOMINIALE**, assistendo Amministratori 
 
 Non si ha riguardo unicamente agli aspetti giuridici, ma si pone particolare attenzione altresì agli aspetti tecnici grazie alla consolidata collaborazione con periti esperti, per costruire la difesa più idonea ed efficace, rispondente alle esigenze del Cliente.
 
-
+## Contrattualistica
 Si offre ai propri Clienti consulenza personalizzata ed assistenza stragiudiziale in **MATERIA CONTRATTUALE** al fine di offrire il miglior strumento giuridico possibile a presidio e a tutela dei diritti del Cliente. In particolare si offre assistenza per:
 
 * disamina / redazione e revisione di contratti di vendita e locazione [(vedasi anche area di competenza: diritto immobiliare)]($competenzeUrl/diritto-immobiliare.html);
@@ -36,10 +37,11 @@ Si offre ai propri Clienti consulenza personalizzata ed assistenza stragiudizial
 * disamina / redazione e revisione di contratti di cessione di marchio [(vedasi anche area di competenza: diritto proprietà intellettuale)]($competenzeUrl/diritto-intellettuale.html);
 * disamina / redazione e revisione di contratti di fornitura, di distribuzione;
 * disamina / redazione e revisione di contratto di affitto e cessione di ramo d'azienda;
-* disamina / redazione e revisione di contratti costitutivi di patti di famiglia;
+* disamina / redazione e revisione di contratti costitutivi di patti di famiglia.
+
 Si affianca il Cliente in tutte le fasi che portano alla sottoscrizione di accordi contrattuali, quali la conduzione delle trattative precontrattuali e negoziazione delle clausole, individuazione della tipologia contrattuale idonea con particolare riguardo alle clausole da inserire, revisione dei contratti già in essere oltreché assistenza per la risoluzione dei contratti che dovesse rendersi necessaria (es. recesso, risoluzione per inadempimento etc.) con conseguente eventuale assistenza e rappresentanza giudiziale, connessa ai contratti di cui sopra;
 
-
+## Diritto della Famiglia e dei Minori
 Si presta consulenza, assistenza e rappresentanza per tutta la materia attinente al **DIRITTO DELLA FAMIGLIA E DEI MINORI**, ponendo al primo posto l'interesse psicofisico dei minori ed il buon equilibrio della famiglia. Tramite il costante aggiornamento e specializzazione in quelle che sono le pratiche innovative ed in diveniendo della materia, oltreché avvalendosi anche della collaborazione di esperti nella valutazione della personalità, ci si occupa di gestire questa tematica estremamente delicata con particolare riservatezza e discrezione. 
 Si offre quindi al Cliente la panoramica a 360 gradi di quelli che sono i propri diritti e doveri previsti ex lege in tale branca del diritto, offrendo tutte le soluzioni giudiziali e stragiudiziali possibili per individuare quella migliore per le esigenze del Cliente. A titolo esemplificativo si offrono prestazioni per:
 
@@ -59,7 +61,7 @@ Si offre quindi al Cliente la panoramica a 360 gradi di quelli che sono i propri
 * procedimenti di adozioni; 
 * procedura di amministrazione di sostegno e assistenza nella redazione e deposito dei rendiconti.
 
-## DIRITTO DEL LAVORO e DELLA PREVIDENZA SOCIALE
+## Diritto del Lavoro e della Previdenza Sociale
 Si offre la propria prestazione professionale in materia **GIUSLAVORISTICA**, prestando consulenza, assistenza e rappresentanza al Cliente, in ciò che attiene il mondo del lavoro in sede stragiudiziale (conciliazioni avanti i sindacati, mediazioni) ed in sede giudiziale. Ci si occupa quindi di:
 
 *   Impugnazione Licenziamento;
@@ -72,7 +74,7 @@ Si offre la propria prestazione professionale in materia **GIUSLAVORISTICA**, pr
 *   Tutela Lavoratori del Settore Pubblico: risarcimento dei danni per lavoratori pubblici precari;
 *   Tutela contro i Trasferimenti Illegittimi.
 
-
+## Diritto Successorio
 Ci si occupa di **DIRITTO SUCCESSORIO** offrendo consulenza, assistenza e rappresentanza nell'ambito della successione del de cuius, con riguardo sia alla successione testamentaria sia alla successione legittima (ossia priva di testamento). Si affianca dunque il Cliente in ogni fase che si rende necessaria, per supportarlo ed assisterlo nella delicata materia successoria.
 
 Sempre all'interno della "macroarea" del diritto familiare, ci si occupa poi di **DIRITTO SUCCESSORIO** offrendo consulenza, assistenza e rappresentanza per:
@@ -85,13 +87,13 @@ Sempre all'interno della "macroarea" del diritto familiare, ci si occupa poi di 
 * esecuzione dei testamenti;
 * assistenza stragiudiziale e giudiziale in materia di divisione ereditaria.
 
-
+## Recupero del Credito
 Si offre la propria prestazione professionale per il **RECUPERO  DEL CREDITO**, con particolare attenzione all'ammortizzamento dei costi per il Cliente. 
 Tramite una consulenza preliminare con il Cliente, si adotta la strategia migliore per recuperare il credito, dal tentativo stragiudiziale a mezzo diffida alla successiva eventuale fase giudiziale di recupero.
 Il Cliente dunque viene assistito in tutte le fasi resesi necessarie per recuperare il credito, rappresentandolo altresì avanti le Autorità Giudiziarie competenti, sia per le procedure monitorie sia per le procedure esecutive mobiliari, immobiliari e presso terzi, che da ultimo nelle procedure concorsuali tramite l'insinuazione al passivo nella procedura. 
 Il tutto, ove resosi necessario anche con l'ausilio degli strumenti concessi ex lege per le indagini patrimoniali sui debitori e/o il supporto di agenzie investigative su richiesta del Cliente.
 
-
+## Diritto della Proprietà Intellettuale
 Si presta consulenza ed assistenza in materia di **DIRITTO DELLA PROPRIETA' INTELLETTUALE**, ponendo una particolare attenzione allo studio e profilazione della migliore strategia di tutela delle "idee" dei Clienti nonché dei distintivi d'impresa e/o dei prodotti.
 Nello specifico, si offrono le seguenti prestazioni professionali:
 
@@ -103,7 +105,7 @@ Nello specifico, si offrono le seguenti prestazioni professionali:
 * consulenza in materia di concorrenza sleale e contraffazione;
 * consulenza e assistenza sulla tutela del diritto d'autore;
 
-
+## Diritto Assicurativo
 Si offre la propria attività professionale in materia di **DIRITTO ASSICURATIVO**, rivolgendosi tanto alle compagnie di assicurazioni quanto ai privati, tutelando sempre l'interesse del Cliente.
 A tutela dell'interesse del Cliente quindi si offre in particolar modo:
 
@@ -139,6 +141,12 @@ Le parole hanno un grande potere simbolico e il modo in cui vengono utilizzate h
 
 ### Per recupero del credito
 Se esiste anche una sola possibilità che un numero di cose vada male, ad andare male è sicuramente quella destinata a provocare il danno maggiore. (Arthur Bloch)
+
+### Per diritto successorio
+L'uomo saggio deve ricordarsi che è un discendente del passato ma anche un genitore del futuro. (Herbert Spencer)
+
+### Per diritto del lavoro
+
 
 "Siamo schiavi delle leggi, per poter essere liberi" Legum servi sumus ut liberi esse possimus) (Cicerone)
 "Il grande avvocato è quello  utile ai giudici per aiutarli a decidere secondo giustizia, utile al cliente per aiutarlo a far valere le proprie ragioni" (Piero Calamandrei)
