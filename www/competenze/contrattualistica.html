@@ -4,7 +4,7 @@
     html5up.net | @ajlkn
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
+<html lang="it" xml:lang="it" xmlns="http://www.w3.org/1999/xhtml" >
     <head>
         <!--  Required Tags -->
         <meta charset="utf-8" />
