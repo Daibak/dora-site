@@ -18,6 +18,7 @@
         <meta property="og:description" content="$description">
         <meta property="og:image" content="$baseUrl/images/$logoPNG">
         <meta property="og:url" content="$baseUrl/competenze/$page.html">
+        <meta property="og:type" content="product">
         <meta property="og:site_name" content="$siteName">
 
         <!--  Non-Essential, But Recommended -->
