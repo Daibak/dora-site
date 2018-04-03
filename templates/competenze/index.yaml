@@ -15,7 +15,7 @@ structuredData: |
         "item": {
           "@id": "$baseUrl/",
           "name": "Avvocato Dora Ballabio",
-          "image": "$baseUrl/images/$logoJPEG"
+          "image": "$baseUrl/images/$logoPNG"
         }
       },{
         "@type": "ListItem",
@@ -23,7 +23,7 @@ structuredData: |
         "item": {
           "@id": "$baseUrl/competenze",
           "name": "Competenze",
-          "image": "$baseUrl/images/$logoJPEG"
+          "image": "$baseUrl/images/$logoPNG"
         }
       }]
     }

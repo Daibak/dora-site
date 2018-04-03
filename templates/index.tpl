@@ -16,7 +16,7 @@
         <!--  Essential META Tags -->
         <meta property="og:title" content="$title">
         <meta property="og:description" content="$description">
-        <meta property="og:image" content="$baseUrl/images/$logoJPEG">
+        <meta property="og:image" content="$baseUrl/images/$logoPNG">
         <meta property="og:url" content="$baseUrl/index.html">
         <meta property="og:site_name" content="$siteName">
 

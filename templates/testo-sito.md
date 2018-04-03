@@ -167,8 +167,8 @@ L'uomo saggio deve ricordarsi che è un discendente del passato ma anche un geni
   "@type": "Attorney",
   "name": "Dora Ballabio",
   "url": "$baseUrl",
-  "logo": "$baseUrl/images/$logoJPEG",
-  "image": "$baseUrl/images/$logoJPEG",
+  "logo": "$baseUrl/images/$logoPNG",
+  "image": "$baseUrl/images/$logoPNG",
   "description": "$description",
   "address": {
     "@type": "PostalAddress",
@@ -224,7 +224,7 @@ L'uomo saggio deve ricordarsi che è un discendente del passato ma anche un geni
     "item": {
       "@id": "$baseUrl/",
       "name": "Avvocato Dora Ballabio",
-      "image": "$baseUrl/images/$logoJPEG"
+      "image": "$baseUrl/images/$logoPNG"
     }
   },{
     "@type": "ListItem",
@@ -232,7 +232,7 @@ L'uomo saggio deve ricordarsi che è un discendente del passato ma anche un geni
     "item": {
       "@id": "$baseUrl/competenze",
       "name": "Competenze",
-      "image": "$baseUrl/images/$logoJPEG"
+      "image": "$baseUrl/images/$logoPNG"
     }
   },{
     "@type": "ListItem",

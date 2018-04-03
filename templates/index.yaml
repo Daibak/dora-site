@@ -16,8 +16,8 @@ structuredData: |
       "@type": "Attorney",
       "name": "Dora Ballabio",
       "url": "$baseUrl",
-      "logo": "$baseUrl/images/$logoJPEG",
-      "image": "$baseUrl/images/$logoJPEG",
+      "logo": "$baseUrl/images/$logoPNG",
+      "image": "$baseUrl/images/$logoPNG",
       "description": "$description",
       "address": {
         "@type": "PostalAddress",
@@ -70,7 +70,7 @@ structuredData: |
         "item": {
           "@id": "$baseUrl/",
           "name": "Avvocato Dora Ballabio",
-          "image": "$baseUrl/images/$logoJPEG"
+          "image": "$baseUrl/images/$logoPNG"
         }
       }]
     }
