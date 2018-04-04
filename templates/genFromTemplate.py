@@ -2,13 +2,44 @@
 
 import argparse
 import sys
-from string import Template
+import string
 
 import yaml
 
 
+class TemplateIndented(string.Template):
+    def substitute(*args, **kws):
+        if not args:
+            raise TypeError("descriptor 'substitute' of 'Template' object "
+                            "needs an argument")
+        self, *args = args  # allow the "self" keyword be passed
+        if len(args) > 1:
+            raise TypeError('Too many positional arguments')
+        if not args:
+            mapping = kws
+        elif kws:
+            mapping = string._ChainMap(kws, args[0])
+        else:
+            mapping = args[0]
+
+        # Helper function for .sub()
+        def convert(mo):
+            # Check the most common path first.
+            named = mo.group('named') or mo.group('braced')
+            if named is not None:
+                indent = mo.start() - mo.string[:mo.start()].rfind('\n') - 1
+                return str(mapping[named]).replace('\n', '\n' + indent * ' ')
+            if mo.group('escaped') is not None:
+                return self.delimiter
+            if mo.group('invalid') is not None:
+                self._invalid(mo)
+            raise ValueError('Unrecognized named group in pattern',
+                             self.pattern)
+        return self.pattern.sub(convert, self.template)
+
+
 def main(args):
-    tpl = Template(args.templateFile.read())
+    tpl = TemplateIndented(args.templateFile.read())
 
     definitions = {}
 
@@ -19,7 +50,7 @@ def main(args):
             definitions.update(ld)
 
     outputWithoutRecursion = tpl.substitute(definitions)
-    output = Template(outputWithoutRecursion).substitute(definitions)
+    output = TemplateIndented(outputWithoutRecursion).substitute(definitions)
     args.o.write(output)
 
 
