@@ -11,27 +11,27 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <title>$title</title>
-        <meta name="description" content="$description">
+        <meta name="description" content="$description" />
 
         <!--  Essential META Tags -->
-        <meta property="og:title" content="$title">
-        <meta property="og:description" content="$description">
-        <meta property="og:image" content="$baseUrl/images/$logoPNG">
-        <meta property="og:url" content="$baseUrl/index.html">
-        <meta property="og:type" content="website">
-        <meta property="og:site_name" content="$siteName">
+        <meta property="og:title" content="$title" />
+        <meta property="og:description" content="$description" />
+        <meta property="og:image" content="$baseUrl/images/$logoPNG" />
+        <meta property="og:url" content="$baseUrl/index.html" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="$siteName" />
 
         <!--  Non-Essential, But Recommended -->
-        <meta name="twitter:image:alt" content="$siteName">
-        <meta name="referrer" content="no-referrer-when-downgrade">
+        <meta name="twitter:image:alt" content="$siteName" />
+        <meta name="referrer" content="no-referrer-when-downgrade" />
         <link rel="canonical" href="$baseUrl/index.html" />
 
         <!--  Icons -->
-        <link rel="icon" href="${faviconsPrefix}16.$faviconsExtension" sizes="16x16" type="image/$faviconsExtension">
-        <link rel="icon" href="${faviconsPrefix}32.$faviconsExtension" sizes="32x32" type="image/$faviconsExtension">
-        <link rel="icon" href="${faviconsPrefix}48.$faviconsExtension" sizes="48x48" type="image/$faviconsExtension">
-        <link rel="icon" href="${faviconsPrefix}96.$faviconsExtension" sizes="96x96" type="image/$faviconsExtension">
-        <link rel="icon" href="${faviconsPrefix}192.$faviconsExtension" sizes="192x192" type="image/$faviconsExtension">
+        <link rel="icon" href="${faviconsPrefix}16.$faviconsExtension" sizes="16x16" type="image/$faviconsExtension" />
+        <link rel="icon" href="${faviconsPrefix}32.$faviconsExtension" sizes="32x32" type="image/$faviconsExtension" />
+        <link rel="icon" href="${faviconsPrefix}48.$faviconsExtension" sizes="48x48" type="image/$faviconsExtension" />
+        <link rel="icon" href="${faviconsPrefix}96.$faviconsExtension" sizes="96x96" type="image/$faviconsExtension" />
+        <link rel="icon" href="${faviconsPrefix}192.$faviconsExtension" sizes="192x192" type="image/$faviconsExtension" />
 
         <!--
             <link rel="apple-touch-icon" href="older-iPhone.png"> <!- 120px ->
