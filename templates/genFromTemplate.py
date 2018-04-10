@@ -38,9 +38,7 @@ class TemplateIndented(string.Template):
         return self.pattern.sub(convert, self.template)
 
 
-def main(args):
-    tpl = TemplateIndented(args.templateFile.read())
-
+def main(args, nestingLevel=0):
     definitions = {}
 
     for fi in args.i:
@@ -49,10 +47,13 @@ def main(args):
         if ld is not None:
             definitions.update(ld)
 
+    tpl = TemplateIndented(args.templateFile.read())
     outputRecursion = tpl.substitute(definitions)
-    outputRecursion = TemplateIndented(outputRecursion).substitute(definitions)
-    output = TemplateIndented(outputRecursion).substitute(definitions)
-    args.o.write(output)
+
+    for _ in range(nestingLevel):
+        outputRecursion = TemplateIndented(outputRecursion).substitute(definitions)
+
+    args.o.write(outputRecursion)
 
 
 if __name__ == "__main__":
@@ -67,7 +68,7 @@ if __name__ == "__main__":
     parser.add_argument("-o", metavar="output-file", help="Path to output file",
                         type=argparse.FileType('w'), default=sys.stdout)
     args = parser.parse_args()
-    main(args)
+    main(args, nestingLevel=2)
 
     for f in args.i:
         f.close()
