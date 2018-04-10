@@ -49,8 +49,9 @@ def main(args):
         if ld is not None:
             definitions.update(ld)
 
-    outputWithoutRecursion = tpl.substitute(definitions)
-    output = TemplateIndented(outputWithoutRecursion).substitute(definitions)
+    outputRecursion = tpl.substitute(definitions)
+    outputRecursion = TemplateIndented(outputRecursion).substitute(definitions)
+    output = TemplateIndented(outputRecursion).substitute(definitions)
     args.o.write(output)
 
 

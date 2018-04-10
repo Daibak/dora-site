@@ -2,6 +2,8 @@
 ---
 dirUrl: competenze
 subtitle: ''
+fotoExt: 'jpeg'
+imageText: <span class="image right"><img src="../images/foto-competenze/$page.$fotoExt" alt="$page" /></span>
 headerBreadcrumb: |
     <ol class="breadcrumb">
         <li>
