@@ -6,27 +6,27 @@ description: Indice delle competenze offerte dall'Avvocato Dora Ballabio
 citation: Prima societas in ipso coniugio est, proxima in liberis, deinde una domus, communia omnia; id autem est principium urbis et quasi seminarium rei publicae. (Cicerone)
 structuredData: |
     <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [{
-        "@type": "ListItem",
-        "position": 1,
-        "item": {
-          "@id": "$baseUrl/",
-          "name": "Avvocato Dora Ballabio",
-          "image": "$baseUrl/images/$logoPNG"
+        {
+          "@context": "http://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "$baseUrl/",
+              "name": "Avvocato Dora Ballabio",
+              "image": "$baseUrl/images/$logoPNG"
+            }
+          },{
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@id": "$baseUrl/competenze",
+              "name": "Competenze",
+              "image": "$baseUrl/images/$logoPNG"
+            }
+          }]
         }
-      },{
-        "@type": "ListItem",
-        "position": 2,
-        "item": {
-          "@id": "$baseUrl/competenze",
-          "name": "Competenze",
-          "image": "$baseUrl/images/$logoPNG"
-        }
-      }]
-    }
     </script>
 headerBreadcrumb: |
     <ol class="breadcrumb">
