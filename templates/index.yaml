@@ -39,8 +39,8 @@ structuredData: |
                 "Thursday",
                 "Friday"
               ],
-              "opens": "09:00",
-              "closes": "18:00"
+              "opens": "00:00",
+              "closes": "23:59"
             },
             {
               "@type": "OpeningHoursSpecification",
@@ -48,8 +48,8 @@ structuredData: |
                 "Saturday",
                 "Sunday"
               ],
-              "opens": "10:00",
-              "closes": "12:00"
+              "opens": "00:00",
+              "closes": "23:59"
             }
           ]
         }
